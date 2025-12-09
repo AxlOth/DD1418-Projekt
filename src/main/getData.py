@@ -2,7 +2,11 @@ import json
 import os
 from glob import glob
 
-data_folder = "data_nyheter"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.dirname(os.path.dirname(SCRIPT_DIR))
+DATA_FOLDER = os.path.join(ROOT_DIR, "data_nyheter")
+
+data_folder = DATA_FOLDER
 
 json_files = glob(os.path.join(data_folder, "data_*.json"))
 
@@ -34,6 +38,6 @@ for file_path in json_files:
             tokens_list.append(token_obj)
 
 # Visa exempel på första 10 token
-
+    
 for t in tokens_list[:10]:
     print(t)
