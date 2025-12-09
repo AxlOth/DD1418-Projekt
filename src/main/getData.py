@@ -12,6 +12,7 @@ json_files = glob(os.path.join(data_folder, "data_*.json"))
 
 tokens_list = []
 processed_tokens = 0
+seen_sentences = set()
 
 for file_path in json_files:
     with open(file_path,     "r", encoding="utf-8") as f:
@@ -21,6 +22,14 @@ for file_path in json_files:
         print(processed_tokens)
 
     for hit in data.get("kwic", []):
+
+        sentence = " ".join([t.get("word", "") for t in hit.get("tokens", [])])
+
+        if sentence in seen_sentences:
+            continue
+
+        seen_sentences.add(sentence)
+
         for token in hit.get("tokens", []):
             processed_tokens += 1
             word = token.get("word", "")
@@ -31,11 +40,17 @@ for file_path in json_files:
             token_obj = {
                 "word": word,
                 "pos": pos,
-                "lemma": lemma
             }
             
             # Lägg till i listan
             tokens_list.append(token_obj)
+
+with open("data.txt", "w", encoding="utf-8") as f:
+    for token_obj in tokens_list:
+        for string in token_obj.values():
+            f.write(string + ", ")
+        f.write("\n")
+
 
 # Visa exempel på första 10 token
     
