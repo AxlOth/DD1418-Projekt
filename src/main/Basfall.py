@@ -108,18 +108,15 @@ class Generator(object) :
 
         a = Bokstäver.ViterbiBigramDecoder.init_a("letterBigramProb.txt")
 
-        applicable_words = self.word
-        for i in range(self.unique_words):
-            if(self.word[i] != written + ".*"):
-                applicable_words.pop(i)
-
+        applicable_words = {i: w for i, w in self.word.items() if w.startswith(written)}
+        print(applicable_words)
         for j in applicable_words:
             if j in self.bigram_prob[m]:        #Kolla vilka ord som finns i bigram med det inlagda ordet
                 if(written == None):
                     prob = math.exp(self.bigram_prob[m][j]) 
                 else: 
                     letters_list = []
-                    letters_list.append(written[len(written)])
+                    letters_list.append(written[len(written)-1])
                     letters_list.append(j[len(written):len(j)])
                     prob = math.exp(self.bigram_prob[m][j]) 
                     for i in range(letters_list) -1:
