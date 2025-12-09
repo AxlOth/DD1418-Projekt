@@ -62,24 +62,33 @@ class Generator(object) :
 
         try:
             with codecs.open(filename, 'r', 'utf-8') as f:
-                self.unique_words, self.total_words = map(int, f.readline().strip().split(' '))
+                self.unique_words, self.total_words = map(int, f.readline().strip().split(' '))     #Läser in unika ord och antal ord
+                # YOUR CODE HERE
 
-                # read all words and unigram counts
+                for i in range(self.unique_words):                          #läser in alla unika ord, dess index och antal
+                    a, b, c = map(str, f.readline().strip().split(' '))
+                    a = int(a)
+                    c = int(c)
+                    self.word[a] = b
+                    self.index[b] = a
+                    self.unigram_count[a] = c
+                
+                for rad in f:
+                    rad = rad.strip()
+                    if rad == "-1":         #sista raden ska skippas
+                        continue
+                    else:
+                        delar = rad.split()     #Läser in alla bigram-sannolikheter och lägger in dessa i dictionaryt
+                        x, y, z = delar
+                        x = int(x)
+                        y = int(y)
+                        z = float(z)
+                        self.bigram_prob[x][y] = z
+                
                 for i in range(self.unique_words):
-                    index, word, count = f.readline().strip().split(' ')
-                    self.index[word] = index
-                    self.word[index] = word
-                    self.unigram_count[index] = count
-
-                line = f.readline().strip()
-                while (line != "-1"):
-
-                    index1, index2, logProb = line.split(' ')
-                    self.bigram_prob[index1][index2] = logProb
-                    line = f.readline().strip()
+                    self.bigram_prob[i][13] = -100000000000
 
 
-                    
                 return True
         except IOError:
             print("Couldn't find bigram probabilities file {}".format(filename))
@@ -90,35 +99,42 @@ class Generator(object) :
         Generates and prints n words, starting with the word w, and following the distribution
         of the language model.
         """ 
+        # YOUR CODE HERE
 
-        # print("words:")
-        # print(self.index.items())
+          #Gör detta n antal gånger
 
-        # print("\nbigrams:")
-        # print(self.bigram_prob.items())
+       
+        ordlista = []
+        viktlista = []
 
-        
-        if w in self.index and self.index[current_word] in self.bigram_prob:
-            rand = random.uniform(0,1)
+        m = self.index[w]
+        for j in range(self.unique_words):
+            if j in self.bigram_prob[m]:        #Kolla vilka ord som finns i bigram med det inlagda ordet
+                prob = math.exp(self.bigram_prob[m][j])     #den är i ln
+                if prob > 0:
+                    ordlista.append(self.word[j])           #lägg in i listan över möjliga ord med sannolikheten i viktlistan
+                    viktlista.append(prob)
 
-            current_sum = 0
-            for next_word_index, logprob in self.bigram_prob[self.index[current_word]].items():
-                # print(f"chcecking {current_word}, {next_word_index}!")
+        if ordlista == []:                              #om det inte fanns några bigram-sannolikheter slumpar man mellan alla olika med samma sannolikhet
+            for k in range(self.unique_words):
+                ordlista.append(self.word[k])
+                viktlista.append(1/self.unique_words)
 
-                current_sum += math.exp(float(logprob))
-                if rand <= current_sum:
-                    next_word = self.word[next_word_index]
-                    print(" ",next_word, end="")
-                    current_word = next_word
-                    break
-
-        else: 
-            # print(f"word {current_word} not found in bigrams!")
-            current_word = random.choice(list(self.word.values()))
-            print(" ",current_word, end="")
-                
-
-
+        if len(viktlista) > 2:
+            top3_indices = [i for i, v in sorted(enumerate(viktlista), key=lambda x: x[1], reverse=True)[:3]]
+            nyaord = []
+            for i in top3_indices:
+                nyaord.append(ordlista[i])
+            print(nyaord)
+        elif len(viktlista) > 1:
+            top2_indices = [i for i, v in sorted(enumerate(viktlista), key=lambda x: x[1], reverse=True)[:2]]
+            nyaord = []
+            for i in top2_indices:
+                nyaord.append(ordlista[i])
+            print(nyaord)
+        else:
+            nyaord = ordlista[0]
+            print(nyaord)
 
 
         pass
@@ -130,13 +146,13 @@ def main():
     parser = argparse.ArgumentParser(description='BigramTester')
     parser.add_argument('--file', '-f', type=str,  required=True, help='file with language model')
     parser.add_argument('--start', '-s', type=str, required=True, help='starting word')
-    parser.add_argument('--number_of_words', '-n', type=int, default=100)
+    parser.add_argument('--number_of_words', '-n', type=int, default=1)
 
     arguments = parser.parse_args()
 
     generator = Generator()
     generator.read_model(arguments.file.strip())
-    generator.generate(arguments.start.strip(),arguments.number_of_words)
+    generator.generate(arguments.start.strip())
 
 if __name__ == "__main__":
     main()

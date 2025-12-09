@@ -64,6 +64,24 @@ with open("pos.txt", "w", encoding="utf-8") as f:
         f.write(token_obj["pos"])
         if(token_obj["word"] == "."):
                 f.write("\n")
+
+# Rebeckas test
+
+with open("letters.txt", "w", encoding="utf-8") as f:
+    prev_token = ""
+    for token_obj in tokens_list:
+        if(token_obj["word"] != "." and prev_token != "."):
+            f.write("." + " ")
+        
+            for ch in token_obj["word"]:
+                if ch == " ":
+                     f.write("." + " ")
+                     
+                else: f.write(ch + " ")
+
+        if(token_obj["word"] == "."):
+                f.write("\n")
+
 # Visa exempel på första 10 token
     
 for t in tokens_list[:10]:

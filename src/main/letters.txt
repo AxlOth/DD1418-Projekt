@@ -1,0 +1,931 @@
+. a b c d e f g h i j k l m n o p q r s t u v w x y z å ä ö 
+. F l e r a . h a r . d ö t t . i . d e n . s m i t t s a m m a . s j u k d o m e n 
+. O m k r i n g . t r e t t i o . m ä n n i s k o r . d o g 
+. D e . h ä n d e r . o f t a s t . n ä r . b j ö r n e n . ä r . s k a d e s k j u t e n . , . s ä g e r . S u s a n n a . L ö f g r e n . , . p å . N a t u r v å r d s v e r k e t . t i l l . D a g e n s . N y h e t e r 
+. P a l e s t i n s k a . g r u p p e r . h a r . l o v a t . a t t . s l u t a . d ö d a . i s r a e l e r 
+. S p a n i e n . l e k t e . m e d . s v e n s k a r n a . o c h . v a n n . m y c k e t . l ä t t 
+. U t r i k e s m i n i s t e r . A n n a . L i n d h . b l e v . k n i v s k u r e n . n ä r . h o n . h a n d l a d e . k l ä d e r . p å . v a r u h u s e t . N K . i . S t o c k h o l m 
+. S e m i f i n a l e r n a . s p e l a s . i . b ä s t . a v . s j u . m a t c h e r 
+. K a n s k e . s k u l l e . b r å k e t . g å . a t t . l ö s a . o m . l ä n d e r n a . p r a t a d e . d i r e k t . m e d . v a r a n d r a 
+. F l e r . ä n . f e m t i o . m i l j o n e r . m ä n n i s k o r . h a r . f ö r l o r a t . s i n a . h e m . i . B a n g l a d e s h . , . I n d i e n . o c h . N e p a l 
+. S å . k a l l t . h a r . d e t . i n t e . v a r i t . d ä r . i . m a r s . p å . 3 4 . å r 
+. M e n . a l l a . i . S S U . h å l l e r . i n t e . m e d 
+. I . h e l g e n . v a r . s k i d t ä v l i n g e n . T j e j v a s a n 
+. D e t . k a l l a s . r e g i s t r e r a t . p a r t n e r s k a p 
+. I . a n d r a . h a l v l e k . l e d d e . s v e n s k a r n a . m e d . 4 . – . 1 . m e n . F i n l a n d . v ä n d e . m a t c h e n 
+. D e t . ä r . d e t . b ä s t a . s ä t t e t . a t t . s k y d d a . s i g . , . t y c k e r . S o c i a l s t y r e l s e n 
+. F y r a . p e r s o n e r . d ö m d e s . t i l l . f ä n g e l s e 
+. A l l a . g r e p s . u t a n . a t t . d e t . b l e v . b r å k 
+. D e . ä r . r ä d d a . f ö r . a t t . e t t . o l j e - f a r t y g . s k a . l ä c k a . s å . m y c k e t . o l j a . a t t . h a v e t . s k a d a s 
+. H a n . o c h . h a n s . f a m i l j . h a r . h o t a t s . t i l l . l i v e t 
+. M å n g a . ä r . a r g a . ö v e r . f ö r s l a g e n 
+. D e t . ä r . e t t . f a n t a s t i s k t . r e s u l t a t 
+. F ö r . T o n y . B l a i r . b l e v . v a l e t . b å d e . e n . f r a m g å n g . o c h . e t t . m i s s l y c k a n d e 
+. D e t . h a r . g å t t . f e m . m å n a d e r . s e d a n . o l j e f ä r j a n . P r e s t i g e . s j ö n k . u t a n f ö r . S p a n i e n s . n o r r a . k u s t 
+. H a n . h a r . e n . l i t e n . c h a n s . a t t . g å . v i d a r e . t i l l . f i n a l . m e n . d å . m å s t e . h a n . n ä s t a n . s l å . p e r s o n l i g t . r e k o r d 
+. M å n g a . h o l l ä n d a r e . k r ä v e r . h å r d a r e . t a g . m o t . m u s l i m s k a . i n v a n d r a r e 
+. Ä g a r n a . v i l l . s ä n k a . s p e l a r n a s . l ö n e r . m e n . s p e l a r n a . v i l l . i n t e . v a r a . m e d . o m . d e t 
+. A f g h a n i s t a n . ä r . f o r t f a r a n d e . e t t . f a r l i g t . l a n d 
+. U S A s . p r e s i d e n t . B u s h . l o v a r . a t t . t e r r o r i s t e r n a . s k a . f å n g a s . o c h . s t r a f f a s 
+. B o m b e r n a . k a n . a l l t s å . b ö r j a . f a l l a . ö v e r . h u v u d s t a d e n . B a g d a d . n ä r . s o m . h e l s t 
+. P a s t o r n . s ä g e r . a t t . h a n . ä r . h e l t . o s k y l d i g 
+. I b l a n d . f i c k . j a g . s i t t a . f l e r a . t i m m a r . i . e n . i s k a l l . c e l l 
+. O m . S v e r i g e . v a n n . s k u l l e . l a g e t . g å . t i l l . s e m i f i n a l 
+. M e n . n å g r a . p e n g a r . h a d e . i n t e . b e t a l a t s . t i l l . k i d n a p p a r n a 
+. Å k l a g a r e n . v i l l e . a t t . e n . a v . p o j k a r n a . s k u l l e . d ö m a s . t i l l . f y r a . å r s . u n g d o m s v å r d 
+. F l e r a . g å n g e r . t i d i g a r e . h a r . t e r r o r i s t e r . a n f a l l i t . t u r i s t e r . n ä r . d e . v i l l . s k a d a . E g y p t e n s . r e g e r i n g 
+. B a r a . p å . n å g r a . t i m m a r . b l e v . h e l a . a n s i k t e t . f ö r l a m a t . o c h . f u l l t . m e d . f u l a . m ä r k e n 
+. U S A . h a r . f l e r a . o l i k a . r y m d f ä r j o r 
+. S t a t s m i n i s t e r n . h a r . s a g t . a t t . h a n . t r o r . a t t . d e n . n y a . l a g e n . k o m m e r . a t t . g e n o m f ö r a s . t r o t s . a t t . t v å . l ä n d e r . h a r . s a g t . n e j 
+. F ö r e n t a . N a t i o n e r n a . , . F N . , . u n d e r s ö k e r . o m . d e t . f i n n s . f a r l i g a . o c h . o l a g l i g a . v a p e n . i . I r a k 
+. D e . v i l l e . i n t e . a t t . a n d r a . l ä n d e r . s k u l l e . v e t a . a t t . m å n g a . k i n e s e r . v a r . s m i t t a d e 
+. D å . s a d e . I s r a e l s . l e d a r e . a t t . I s r a e l . m å s t e . h a . m u r e n . f ö r . a t t . s k y d d a . s i t t . f o l k . m o t . p a l e s t i n s k a . s j ä l v m o r d s b o m b a r e 
+. I F K . G ö t e b o r g . v a n n . m o t . D j u r g å r d e n . m e d . 2 - 0 . i . m å n d a g s 
+. V i c t o r i a . g j o r d e . s v e r i g e s . s e g e r m å l . r e d a n . e f t e r . s j u . m i n u t e r s . s p e l 
+. D e t . ä r . o c k s å . e t t . s t o r t . b a k s l a g . f ö r . h e l a . E U - s a m a r b e t e t 
+. E t t u s e n . s v e n s k a r . h a r . f å t t . f r å g o r . o m . m o b i l e r 
+. H a n . d ö m s . t i l l . l i v s t i d s . f ä n g e l s e 
+. 1 9 - å r i n g e n . r y m d e . e n . g å n g . t i l l 
+. L i v e r p o o l . v a r . n ä s t a n . u t s p e l a d e . i . d e n . f ö r s t a . h a l v l e k e n 
+. M e n . h o n . g j o r d e . e t t . l i t e t . m i s s t a g . o c h . d e t . a v g j o r d e . m a t c h e n 
+. V ä r l d s h ä l s o o r g a n i s a t i o n e n . , . W H O . , . s ä g e r . n u . a t t . s m i t t a n . ä r . b o r t a . f r å n . H o n g - K o n g 
+. D e . p r o t e s t e r a d e . m o t . l a n d e t s . p r e s i d e n t . A l e x a n d e r . L u k a s j e n k o . D e . p r o t e s t e r a d e . m o t . a t t . h a n . f u s k a d e . i . v a l e t . o c h . f ö r s ö k e r . ä n d r a . l a n d e t s . l a g a r . s å . a t t . h a n . k a n . s t y r a . l a n d e t . s å . l ä n g e . h a n . l e v e r 
+. D e t . n y a . å r e t . b ö r j a d e . v å l d s a m t . i . I s r a e l 
+. I . e t t . r a c e r l o p p . i . U S A . i . h ö s t a s . k r a s c h a d e . h a n s . b i l 
+. – . F ö r e n t a . N a t i o n e r n a . , . F N . , . m å s t e . f ö r ä n d r a s 
+. T i l l . i . h ö s t . s k a . s t y r e l s e n . i . F i . a r b e t a . m e d . a t t . b e s t ä m m a . p a r t i e t s . p o l i t i k . o c h . h i t t a . i n t r e s s e r a d e . p o l i t i k e r . s o m . v i l l . a r b e t a . i . p a r t i e t 
+. P o l i s m a n n e n . h a r . e r k ä n t . a t t . h a n . g j o r d e . d e t 
+. F å n g a r n a . h a r . v a r i t . f ö r s v u n n a . s e d a n . i . o n s d a g s 
+. D e . h ö l l . m e d . o m . a t t . d e t . ä r . s v å r t . a t t . l i t a . p å . S a d d a m . H u s s e i n 
+. I s r a e l . s ä g e r . a t t . A r a f a t . s t ö d e r . d e . p a l e s t i n i e r . s o m . s p r ä n g e r . b o m b e r . i . I s r a e l 
+. M i l i t ä r e n s . c h e f e r . s ä g e r . a t t . d e . ä n n u . i n t e . v e t . h u r . o l y c k a n . k u n d e . h ä n d a 
+. M e n . d e t . ä r . r i k s d a g e n . s o m . b e s l u t a r . o m . s k a t t e r 
+. D e t . h ä n d e . p å . e t t . v å r d h e m 
+. F A O . h a r . s a t t . u p p . e t t . m å l . : . O m . t o l v . å r . s k a . s v ä l t e n . i . v ä r l d e n . h a . m i n s k a t s . t i l l . h ä l f t e n 
+. F o r s k a r n a . v e t . i n t e . o m . d e t . k a n . v a r a . s k a d l i g t . f ö r . m ä n n i s k o r 
+. A n n a r s . k a n s k e . d e . h u n n i t . s t o p p a . o l y c k a n 
+. H a n s . j o b b . b l i r . a t t . g ö r a . I r a k . t i l l . e n . d e m o k r a t i . o c h . s e . t i l l . a t t . i r a k i e r n a . s j ä l v a . k a n . s t y r a . l a n d e t 
+. H a n . k a n . b l i . a v s t ä n g d . i . f l e r a . m a t c h e r 
+. K i m . K ä l l s t r ö m . o c h . A n d e r s . A n d e r s s o n . h a d e . v a r s i n . b r a . c h a n s . i . s l u t e t 
+. F ö r r a . v e c k a n . d ö d a d e s . s e x t o n . m ä n n i s k o r . i . I s r a e l 
+. P l ö t s l i g t . l å g . A r g e n t i n a . b a r a . u n d e r . m e d . t v å . m å l 
+. H a n n a . L j u n g b e r g . g j o r d e . d e t . s v e n s k a . m å l e t 
+. – . B i l a r . f l ö g . r u n t . s o m . p a p p e r s l a p p a r . , . s ä g e r . n o r r m a n n e n . R o l f . F o s s h e i m . t i l l . D a g e n s . N y h e t e r 
+. D e t . h a r . U S A . m i s s t ä n k t . l ä n g e 
+. D e . f l e s t a . s a d e . a t t . d e . i n t e . v i s s t e . v e m . s o m . v a r . b ä s t 
+. M å n g a . a n d r a . p a r t i e r . ä r . o r o l i g a . f ö r . d e t . n y a . p a r t i e t 
+. S v e n s k a r n a . h a r . f l e r . m o b i l - a b b o n e m a n g . ä n . d e . a n d r a . l ä n d e r n a . i . N o r d e n 
+. H o n . v a r . n i t t o n . h u n d r a d e l a r . f ö r e . T a n j a . P o u t i a i n e n . s o m . b l e v . s i l v e r m e d a l j ö r . D e t . ä r . f ö r s t a . g å n g e n . e n . f i n s k . k v i n n a . h a r . t a g i t . V M - m e d a l j . i . u t f ö r s å k n i n g 
+. I . f l e r a . d a g a r . h a r . d e . p r o t e s t e r a t . m o t . r e s u l t a t e t . a v . v a l e t 
+. M å n g a . t r o r . a t t . b e s l u t e t . b e t y d e r . a t t . S a a b - t i l l v e r k n i n g e n . f ö r s v i n n e r . f r å n . S v e r i g e 
+. T ä v l i n g a r n a . ä r . i . Ö s t e r r i k e 
+. D e t . f i n n s . i n g e t . a n n a t . a t t . g ö r a 
+. F r å n . S v e r i g e s . g r u p p . k o m m e r . o c k s å . S p a n i e n . o c h . K r o a t i e n . a t t . g å . t i l l . s l u t s p e l 
+. P o l i t i k e r n a . k a n . i n t e . k o m m a . ö v e r e n s . o m . v e m . s o m . v a n n . p r e s i d e n t v a l e t . f ö r r a . h e l g e n 
+. I . s ö n d a g s . g j o r d e . h a n . e t t . m å l . n ä r . A j a x . s p e l a d e . 1 - 1 . m o t . F e y e n o o r d 
+. D e t . k a n . b l i . p r e m i ä r m i n i s t e r n . A h m a d . Q u e r e i a 
+. T i n g s r ä t t e n . ä r . o c k s å . s ä k e r . p å . a t t . h a n . v i l l e . d ö d a . h e n n e . o c h . a t t . h a n . h a d e . p l a n e r a t . a t t . d ö d a . h e n n e 
+. R a k e t e r n a . k a n . a n v ä n d a s . f ö r . a t t . a n f a l l a . I r a k s . g r a n n l ä n d e r 
+. F ö r u t . h a r . d e t . f u n n i t s . l a g a r . s o m . h a r . g j o r t . d e t . o m ö j l i g t . a t t . s t r a f f a . d e m 
+. M a t c h e n . s p e l a d e s . i . T u n i s i e n 
+. G r u p p e n . h o t a d e . a t t . d ö d a . h o n o m 
+. F r ö l u n d a . f r å n . G ö t e b o r g . ä r . S v e r i g e s . b ä s t a . l a g . i . i s h o c k e y 
+. K a n a d a . v a n n . m e d . 7 - 1 
+. H a n . h a r . n å t t . s e m i f i n a l . i . e n . a v . v ä r l d e n s . f y r a . s t ö r s t a . t u r n e r i n g a r 
+. D e t . ä r . d e n . s t ö r s t a . p l u n d r i n g e n . a v . e t t . s v e n s k t . b o l a g . i . m o d e r n . t i d 
+. D j u r g å r d e n . v a n n . m e d . 2 - 0 . e f t e r . m å l . a v . A n d r e a s . J o h a n s s o n . o c h . A b g a r . B a r s o m 
+. K o m m i s s i o n e n . v i l l . a t t . a l l a . l ä n d e r . s k a . b e r ä t t a . o m . v a l - r e s u l t a t e t . p å . s a m m a . g å n g 
+. F ö r e t a g e n . s ä g e r . a t t . m a t e n . ä r . b ä t t r e . ä n . v a d . d e n . e g e n t l i g e n . ä r . , . s ä g e r . W a l l s t r ö m . i . t i l l . j o u r n a l i s t e r . i . L o n d o n 
+. A n j a . P ä r s o n . l e d e r . i n t e . l ä n g r e . v ä r l d s c u p e n . i . s k i d o r 
+. G a h r t o n . s j ä l v . s ä g e r . a t t . h a n . b e k l a g a r . a t t . h a n . k ö r d e . b i l . d a g e n . e f t e r . a t t . h a n . d r u c k i t . ö l . o c h . v i n 
+. M e n . i . s ö n d a g s . h i t t a d e . p o l i s e n . m a n n e n 
+. F l y t t a r . h a n . h i t . s k a . h a n . h a . s a m m a . r ä t t . a t t . f å . A - k a s s a . , . b o s t a d s b i d r a g . o c h . s o c i a l b i d r a g . s o m . e n . s v e n s k 
+. R ä t t e g å n g e n . k o m m e r . t r o l i g e n . a t t . h å l l a . p å . i . t r e . d a g a r 
+. 8 . S I D O R . / . T T . F ö r r a . v e c k a n . b l e v . d e t . k l a r t . a t t . E u r o p e i s k a . u n i o n e n . , . E U . , . s k a . b ö r j a . f ö r h a n d l a . m e d . T u r k i e t 
+. – . D e t . ä r . s å . s k ö n t 
+. P å . t o r s d a g e n . v a n n . S v e r i g e . k v a r t s f i n a l e n . m o t . L e t t l a n d 
+. E U - p o l i t i k e r n . R o m a n o . P r o d i . v i l l . a t t . e n . p o l i t i k e r . i . E U - k o m m i s s i o n e n . s k a . l e d a . l ä n d e r n a s . a r b e t e . m o t . t e r r o r 
+. F ö r . f e m . å r . s e d a n . h ä n d e . e n . a n n a n . a l l v a r l i g . k ä r n k r a f t s o l y c k a . i . J a p a n 
+. – . J a g . ä r . s k a k a d . , . s a d e . h a n 
+. I . s ö n d a g s . m o r s e . s t o r m a d e . p o l i s e r n a . e t t . h u s . u t a n f ö r . J ö n k ö p i n g 
+. S å . b l i r . d e t . o m . r i k s d a g e n . s ä g e r . j a . t i l l . r e g e r i n g e n s . n y a . f ö r s l a g . o m . f ö r s v a r e t 
+. H a n . v i s a d e . u p p . b i l d e r . o c h . t e c k n i n g a r 
+. T i d i g a r e . d ö m d e s . d e . f ö r . s e x u e l l t . u t n y t t j a n d e 
+. E n . a n n a n . s v e n s k . s o m . l y c k a d e s . b r a . i . O S . i . o n s d a g s . v a r . s k y t t e n . H å k a n . D a h l b y 
+. H o t e l l . S c a n d i c . i . G ä v l e . b ö r j a d e . b r i n n a . m i t t . i . n a t t e n 
+. D e t . v a r . s o m . v a n l i g t . K a n a d a . s o m . v a n n . d a m t u r n e r i n g e n . ö v e r l ä g s e t 
+. H o n . k a s t a d e . 6 1 , 6 1 . m e t e r 
+. N u . ä r . g r u p p e n . k l a r . m e d . s i n . u n d e r s ö k n i n g 
+. V i . t i t t a r . s å . a t t . d e t . i n t e . b l i r . s t o p p . i . å n . a v . t r ä d . s o m . f a s t n a r . u n d e r . b r o a r . e l l e r . s å . , . s ä g e r . r ä d d n i n g s c h e f e n . O l a . J o h a n n e s s o n . t i l l . n y h e t s b y r å n . T T 
+. P o l i s e n . h a r . h i t t a t . m ö r d a r e n s . k n i v . o c h . b l o d i g a . k l ä d e r 
+. N ä s t a n . v a r j e . t ä v l i n g . h o n . ä r . m e d . i . v i n n e r . h o n . e l l e r . t a r . m e d a l j 
+. H a n . h a r . v a r i t . i . f i n a l . i . ö p p n a . a m e r i k a n s k a . m ä s t e r s k a p e n 
+. D e t . ä r . e n . a v . d e . s t ö r s t a . s e g r a r n a . s o m . l a g e t . h a r . v a r i t . m e d . o m 
+. D e t . ä r . e t t . s p e c i e l l t . k o n t o - n u m m e r . s o m . m ä n n i s k o r . v e t . a t t . d e . k a n . l i t a . p å 
+. D e . v r ä k e r . i . s i g . m a t . o c h . h a r . s v å r t . a t t . s l u t a . ä t a 
+. S e d a n . b l e v . d e t . s ä m r e . o c h . s ä m r e 
+. M a l m ö . F F . v a n n . g u l d e t 
+. B a r a . 3 8 . p r o c e n t . r ö s t a d e . j a 
+. D e . b å d a . s k u l l e . h a . t e s t a t s . a v . d o p n i n g s p o l i s e n . W a d a . i . O S - b y n . i . A t e n 
+. E t t . r i k t i g t . k o n s t m å l 
+. N ä s t a . t ä v l i n g . ä r . n ä s t a . h e l g 
+. I . r e s t e n . a v . E U - l ä n d e r n a . ä r . d e t . f ö r b j u d e t . a t t . s ä l j a . s n u s 
+. F ä r j a n . S t e n a . N a u t i c a . l i g g e r . n u . i . h a m n e n . i . V a r b e r g 
+. B a r n f l i c k a n . h a r . e r k ä n t . a t t . d e t . v a r . h o n . s o m . s k ö t 
+. H a n . s k a . v a r a . m e d . i . t o p p e n . , . s ä g e r . h a n 
+. Z l a t a n . I b r a h i m i v i c . v a r . m a t c h e n s . s t o r e . m å l k u n g 
+. M a n a r - a l . H o u d a . ä r . e n . a r a b i s k . f r i s k o l a 
+. F l e r a . a v . E U - l ä n d e r n a . h a r . s k ä l l t . m y c k e t . p å . B u s h . f ö r . a t t . h a n . s t a r t a d e . k r i g e t . i . I r a k 
+. T r e . t u s e n . n a z i s t e r . d e m o n s t r e r a d e . s a m t i d i g t . s o m . f l e r . ä n . t i o t u s e n . m ä n n i s k o r . g i c k . i . e t t . f r e d s t å g 
+. S e n a r e . s l ä p p t e s . h a n . f r i . m e n . h a n . ä r . f o r t f a r a n d e . m i s s t ä n k t 
+. E n . p o l i s . f r å n . S ö d e r h a m n . h a r . b l i v i t . h ä k t a d . a v . e n . d o m s t o l 
+. O m . i n t e . S a d d a m . H u s s e i n . h a r . l ä m n a t . I r a k . f ö r e . k l o c k a n . f y r a . n a t t e n . t i l l . t o r s d a g e n . s å . k a n . U S A . a n f a l l a 
+. J o h a n . v a n n . 2 0 0 . m e t e r . i . S o l l e n t u n a . p å . t i d e n . 2 0 . 6 5 
+. N u . ä r . d e t . b a r a . n å g r a . d a g a r . k v a r 
+. P å . t i s d a g e n . e x p l o d e r a d e . e n . b o m b . i . l a n d e t . I n d o n e s i e n 
+. J o n a s . B j ö r k m a n . v a n n . s i n . m a t c h . m o t . a m e r i k a n e n . J u s t i n . G i m e l s t o b 
+. P å . m ö t e t . b e s t ä m d e . d e . a t t . b i l d a . f l e r a . g r u p p e r . s o m . s k a . a r b e t a . v i d a r e . m e d . f r e d s p l a n e n 
+. P å . h o t e l l e t . f a n n s . ö v e r . h u n d r a . i s r a e l e r 
+. A n n i k a . S ö r e n s t a m . l i g g e r . n u . p å . p l a t s . 7 2 
+. O m . p e r s o n a l e n . v i s s t e . a t t . L j u n g b e r g . t ä n k t e . t a . l i v e t . a v . s i g . s å . m å s t e . d e . v a k t a . h o n o m . h e l a . t i d e n 
+. P o l i s e n . h a r . h i t t a t . t v å . d ö d a . t j e t j e n s k a . k v i n n o r . m e n . d e . t r o r . a t t . e n . k v i n n a . k l a r a d e . s i g 
+. H a n s . s p u r t . m å s t e . v a r a . n å g o t . a v . d e t . v a s s a s t e . v ä r l d e n . h a r . s e t t 
+. M a t s . S u n d i n . o c h . m å l v a k t e n . T o m m y . S a l o . s k a . s p e l a . d e n . m a t c h e n 
+. I . g å r . , . o n s d a g . , . f l ö g . h a n . h e l i k o p t e r . ö v e r . s k o g a r n a . i . H a l l a n d . o c h . S m å l a n d 
+. S t r ö m a v b r o t t e t . h ä n d e . m i t t . i . r u s n i n g e n . n ä r . f o l k . v a r . p å . v ä g . h e m . f r å n . j o b b e n 
+. H a n . b l e v . s k j u t e n . a v . m i s s t a g . a v . a m e r i k a n s k a . s o l d a t e r 
+. I . M a l m ö . , . G ö t e b o r g . o c h . S t o c k h o l m . f i n n s . d e t . i . d a g . f l e r . b a r n . i . f a t t i g a . f a m i l j e r . ä n . f ö r . 1 0 . å r . s e d a n 
+. J o h a n . W i s s m a n . s p r i n g e r . i . d a g . s e m i f i n a l . p å . 2 0 0 . m e t e r 
+. F l e r . ä n . t v å . h u n d r a . m ä n n i s k o r . s k a d a d e s 
+. R y m d r e s a n . v i s a r . a t t . K i n a . ä r . e t t . a v . v ä r l d e n s . b ä s t a . l ä n d e r . p å . t e k n i k . o c h . f o r s k n i n g 
+. F l e r a . h u n d r a . e j d e r - f å g l a r . h a r . b l i v i t . s j u k a . o c h . d ö t t . d e . s e n a s t e . d a g a r n a 
+. – . D e t . ä r . s t a t s m i n i s t e r . G ö r a n . P e r s s o n s . f e l . a t t . s v e n s k a r n a . i . T h a i l a n d . f å t t . d å l i g . h j ä l p 
+. D e . b e t a l a r . o f t a . s k a t t 
+. K e n n y . B r ä c k . s ä g e r . s j ä l v . a t t . h a n . s k a . f o r t s ä t t a . t ä v l a . i . r a c i n g t ä v l i n g a r 
+. C e n t e r p a r t i e t . f i c k . f l e s t . r ö s t e r . i . d e t . f i n s k a . r i k s d a g s v a l e t . p å . s ö n d a g e n 
+. S v e r i g e . v e r k a r . r u s k i g t . b r a . j u s t . n u 
+. E n . k v i n n a . b l e v . a v . m e d . s i t t . j o b b . n ä r . h o n . a n m ä l d e . a r b e t s k a m r a t e r n a . f ö r . s e x - t r a k a s s e r i 
+. F ö r e t a g e t . g j o r d e . e n . g a n s k a . s t o r . v i n s t . f ö r r a . å r e t 
+. T i l l . m ö t e t . i . B o m b a y . k o m m e r . m ä n n i s k o r . f r å n . m å n g a . a v . d e . f a t t i g a s t e . l ä n d e r n a 
+. A n n a . D a h l b e r g . k o m . f y r a . i . f i n a l e n 
+. P å . t o r s d a g . s p e l a s . f i n a l m a t c h . n u m m e r . t v å . i . J ö n k ö p i n g 
+. M ä n n i s k o r . f ö r s ö k e r . f å . b o r t . o l j a n . o c h . h j ä l p a . s k a d a d e . f å g l a r 
+. D e n . k a n . v a r a . e n . p r o t e s t . m o t . M a h m u d . A b b a s 
+. C i g a r e t t e r . ä r . t i l l å t n a . i . h e l a . E U . t r o t s . a t t . c i g a r e t t e r n a . ä r . f a r l i g a r e . ä n . s n u s e t 
+. D e t . g å r . r y k t e n . o m . a t t . P e t e r . F o r s b e r g s . g a m l e . k e d j e k o m p i s . J o e . S a k i c . s k a . k o m m a . o c h . s p e l a . i . M o d o 
+. K v i n n a n . d ö d a d e s . k a n s k e . f ö r . a t t . h o n . f ö r s ö k t e . s t o p p a . m ö r d a r e n . e l l e r . f ö r s ö k t e . s k a f f a . h j ä l p 
+. D e t . s ä g s . a t t . i r a k i s k a . s o l d a t e r . i n t e . v å g a r . g e . s i g 
+. A l l a . f ä r j o r . t i l l . D a n m a r k . s t ä l l d e s . i n . o c h . s t a n n a d e . k v a r . i . h a m n e n 
+. J o h n . K e r r y . k a n . b l i . v ä r l d e n s . m ä k t i g a s t e . m a n 
+. F ö r . n å g r a . å r . s e d a n . h i t t a d e . f o r s k a r e . e n . m e d i c i n . s o m . k u n d e . b r o m s a . s j u k d o m e n 
+. E f t e r . f y r t i o . m i n u t e r . k u n d e . m a t c h e n . f o r t s ä t t a 
+. D e t . g i c k . s ä m r e . f ö r . S v e r i g e s . d a m e r 
+. P i n o c h e t . v a r . m i l i t ä r . o c h . t o g . m a k t e n . f r å n . d e . p o l i t i k e r . s o m . h a d e . v a l t s . a v . f o l k e t 
+. D e . b l e v . ö v e r f a l l n a . a v . e n . m a n . m e d . k n i v . o c h . d ö d a d e 
+. E r s ä t t n i n g a r n a . o c h . b i d r a g e n . k o s t a r . m å n g a . m i l j a r d e r . k r o n o r . v a r j e . å r 
+. A t e n s . b o r g m ä s t a r e . h a r . s a g t . a t t . d e t . s k a . b l i . 3 0 . n y a . b o r d e l l e r . d ä r . f o l k . k a n . k ö p a . s e x 
+. M e n . p å . g y m n a s i e t . g å r . e l e v e r n a . f r i v i l l i g t 
+. D e n . 2 5 . s e p t e m b e r . v i g s . h a n . t i l l . b i s k o p i . U p p s a l a . d o m k y r k a 
+. A n d r a . l ä n d e r . t y c k e r . a t t . F ö r e n t a . N a t i o n e r n a . s k a . s t y r a . I r a k 
+. T j e c k i e n . , . R y s s l a n d . o c h . F i n l a n d . v a n n . m o t . T r e . K r o n o r 
+. D e t . i n g å r . i . d e r a s . b i l j e t t 
+. B r i t t i s k a . s o l d a t e r . i . I r a k . h a r . d ö d a t . f l e r a . v a n l i g a . i r a k i e r . s o m . i n t e . k u n n a t . f ö r s v a r a . s i g . m e d . v a p e n 
+. E n . f r a n s k . d o m s t o l . h a r . d ö m t . A l f r e d o . A s t i z . f ö r . m o r d . p å . t v å . f r a n s k a . k v i n n o r 
+. H a n . ä r . m i s s t ä n k t . f ö r . a t t . h a . p l a n e r a t . f l e r a . a t t a c k e r . m o t . a m e r i k a n s k a . s o l d a t e r 
+. D e . m i s s t ä n k t s . f ö r . a t t . h a . l å t i t . S k a n d i a . L i v . b e t a l a . d e r a s . e g n a . l ä g e n h e t e r 
+. F a m i l j e n . G a n d h i . ä r . I n d i e n s . m e s t . k ä n d a . p o l i t i s k a . f a m i l j 
+. A r t i s t e r n a . t y c k e r . a t t . f o l k . s t j ä l . d e r a s . m u s i k 
+. S t e f a n . H o l m . v a n n . h ö j d h o p p e t . p å . 2 . 3 0 
+. H o n . v a r . n ä s t a n . f y r a h u n d r a . p o ä n g . b ä t t r e . ä n . t v å a n . , . A u s t r a . S k u j y t e . f r å n . L i t a u e n 
+. D e n . n i o n d e . j u n i . ä r . d e t . d a g s . f ö r . n ä s t a . s t o r a . t ä v l i n g . , . L P G A - m ä s t e r s k a p e n 
+. H o n . h a r . v u n n i t . V M . o c h . s l a g i t . m a s s o r . a v . r e k o r d 
+. R å n a r n a . h a d e . l u r a t . a l l a 
+. S v e r i g e . h a r . r e d a n . s k i c k a t . t ä l t . , . m e d i c i n e r . , . f i l t a r . o c h . a n n a t . t i l l . S r i . L a n k a 
+. M å n g a . t y c k e r . a t t . d e t . ä r . e t t . b r a . f ö r s l a g 
+. Ä n d å . v a r n a d e s . i n t e . f o l k e t . i . T h a i l a n d . f ö r . f a r a n 
+. N u . k a n . d e n . n y a . E U - k o m m i s s i o n e n . ä n t l i g e n . b ö r j a . a r b e t a 
+. R ä d d n i n g s - a r b e t a r n a . h a r . r ä d d a t . u n g e f ä r . 7 0 . b a r n 
+. – . D e t . ä r . l a g l i g t . a t t . k ö p a . s e x . i . G r e k l a n d 
+. D e t . a n d r a . l a g e t . i . f i n a l e n . ä r . F r a n k f u r t . f r å n . T y s k l a n d 
+. D å . d ö d a d e s . n ä s t a n . h u n d r a . m ä n n i s k o r 
+. F l e r . ä n . f y r t i o . m ä n n i s k o r . d ö d a d e s 
+. N u . k o m m e r . B o d s t r ö m . m e d . e t t . e g e t . f ö r s l a g . p å . h u r . s ä k e r h e t e n . s k a . b l i . b ä t t r e . i . f ä n g e l s e r n a 
+. D e n . ä r . g j o r d . a v . A l e j a n d r o . A m e n a b a r s 
+. F o l k p a r t i e t s . l e d a r e . L a r s . L e i j o n b o r g . v i l l . s l å . i h o p . n å g r a . a v . d e . b o r g e r l i g a . p a r t i e r n a 
+. D e . s e n a s t e . t i o . å r e n . h a r . f l e r a . m i n i s t r a r . i . E u r o p a . m ö r d a t s 
+. M a r i e . S ö d e r s t r ö m - L u n d b e r g . s p r a n g . p å . t i d e n . t v å . t i m m a r . o c h . 3 5 . m i n u t e r 
+. I . k v ä l l . f r e d a g . ä r . d e t . s t o r . v a l d e b a t t . i . T V - k a n a l e n . S V T 1 
+. L a g e t . h a d e . t v å . s t o l p t r ä f f a r . o c h . m å n g a . a n d r a . b r a . c h a n s e r 
+. F y r a . l ä n d e r . p r o t e s t e r a d e . m o t . b e s l u t e t 
+. I . I r a k s . g r a n n l ä n d e r . g ö r . s i g . f o l k . o c k s å . b e r e d d a . p å . k r i g 
+. – . H e l s i n g b o r g s . I F . ä r . v i k t i g 
+. N u . ä r . d e t . k l a r t . a t t . m i n s t . 1 6 5 . 0 0 0 . m ä n n i s k o r . h a r . d ö t t 
+. T r e t t i o . m ä n n i s k o r . d o g . o c h . 4 5 . b l e v . s k a d a d e . a v . b o m b e n 
+. N ä r . m a t c h e n . s l u t a d e . s t o d . d e t . 3 . – . 3 
+. F l e r . ä n . h u n d r a . t u s e n . m ä n n i s k o r . h a r . f ö r l o r a t . s i n a . h e m 
+. D e t . v i l l . U l r i c a . M e s s i n g . , . S v e r i g e s . i n f r a s t r u k t u r - m i n i s t e r 
+. D e n . a n d r a . s e m i f i n a l e n . s p e l a s . m e l l a n . T y s k l a n d . o c h . K a n a d a 
+. D j u r g å r d e n . v a n n . d e n . s j ä t t e . k v a r t s f i n a l e n . m o t . H V . 7 1 . m e d . 4 - 1 
+. T r e t t o n . m ä n n i s k o r . d o g 
+. D e . t r o d d e . a t t . d e t . s k u l l e . b l i . s v å r t . f ö r . l e d a r e . f r å n . 2 5 . l ä n d e r . a t t . b l i . ö v e r e n s 
+. D e t . ä r . n ä s t a n . e n . h a l v . m e t e r . k o r t a r e . ä n . s v e n s k e n 
+. H a n . s l o g . i g e n o m . p å . S M . 1 9 4 1 
+. T u r b i n e . P o t s d a m . v a n n . m e d . 3 - 1 
+. R u t k o w s k i . o c h . h a n . m ä n . s l ä p p t e s . s e n a r e . o c h . f i c k . å k a . h e m . t i l l . P o l e n 
+. K r o p p e n . k ä n n s . b r a . o c h . j a g . ä r . s u g e n . p å . a t t . s p e l a 
+. 1 0 2 . v i l l . h a . k v a r . k u n g e n 
+. I t a l i e n s . r e g e r i n g . s ä g e r . a t t . d e t . ä r . M a r t i n . S c h u l z . s o m . h a r . f ö r o l ä m p a t . B e r l u s c o n i 
+. D e . b å d a . f å r . d e l a . p å . f e m . m i l j o n e r . k r o n o r 
+. M a l i n . M o s t r ö m . ä r . e n . a v . s t j ä r n o r n a . i . d e t . s v e n s k a . l a n d s l a g e t . i . f o t b o l l 
+. H a n . t r o d d e . i n t e . a t t . h a n . s k u l l e . b l i . r ä t t v i s t . b e h a n d l a d 
+. S e d a n . d e s s . h a r . p r o t e s t e r n a . m o t . S y r i e n s . l e d a r e . ö k a t 
+. I . m å n g a . l ä n d e r . s a m l a s . d e t . i n . p e n g a r 
+. D a m e r n a . v a r . b ä s t 
+. E n . d e l . t r o r . a t t . d e . s p r ä n g d e . b o m b e n . f ö r . a t t . f å . m e r . m a k t . i . P L O 
+. 1 7 - å r i g a . M a r l e n e . B e n g t s s o n - K o v a c s . t o g . s i l v e r . i . b o r d t e n n i s 
+. V i . a r b e t a r . f ö r . a t t . s v e n s k a . p e n g a r . i n t e . s k a . b l i . m i n d r e . v ä r d a . , . s ä g e r . h a n 
+. E n . b r e v b ä r a r e . s k a . b ä r a . b r e v 
+. U n g a . s o m . a r b e t a r . u t a n . f ö r s ä k r i n g . o c h . s k a d a r . s i g . k a n . r å k a . m y c k e t . i l l a . u t . , . s ä g e r . J o h a n . I n g e l s s o n . p å . L O 
+. O m . ä v e n . B - p r o v e t . i n n e h å l l e r . f u r o s e m i d . b l i r . V i t t o z . a v s t ä n g d . f r å n . a t t . t ä v l a 
+. R u n t . G o t l a n d s . k u s t . l i g g e r . s t o r a . m ä n g d e r . o l j a . i . h a v e t 
+. D ä r . b l i r . d e t . f o r t f a r a n d e . f l e r . o c h . f l e r . s j u k s k r i v n a 
+. Ä v e n . i . å r . h a r . d e t . s e t t . m ö r k t . u t 
+. M e n . d e . f l e s t a . v e t . n o g . i n t e . v a r f ö r 
+. N u . ä n d r a r . s i g . k o m m i t t é n 
+. D e t . v a r . B o . H o l m b e r g . s o m . t i l l s a m m a n s . m e d . p o l i t i k e r n . A n n i k a . B i l l s t r ö m . a v t ä c k t e . m i n n e s m ä r k e t 
+. D e t . ä r . d ä r f ö r . b r å k e t . h a r . b ö r j a t 
+. S e d a n . s p e l a d e . s v e n s k a r n a . j ä m n t . m e d . v ä r l d s s t j ä r n o r n a . i . H o l l a n d 
+. S j u . k i n e s e r . , . t r e . j a p a n e r . o c h . t v å . p a l e s t i n i e r . ä r . o c k s å . k i d n a p p a d e 
+. H a n . ä r . s l ä k t . m e d . k v i n n a n . o c h . b a r n e n . s o m . h a n . t o g . s o m . f å n g a r 
+. K i n e s e r n a . k l a g a r . p å . a t t . k r i g s b r o t t e n . g l ö m s . b o r t . i . j a p a n s k a . s k o l b ö c k e r 
+. P å . n y å r s a f t o n . v a r . d e t . f u l l t . m e d . f o l k . p å . m a r k n a d e n . i . s t a d e n . V e r a c r u z . i . M e x i k o 
+. B u m s . b ö r j a d e . f o l k . s ä l j a . N o k i a s . a k t i e r 
+. Ä n n u . ä r . d e t . i n t e . h e l t . k l a r t . a t t . d e t . b l i r . s å 
+. D e t . h ä r . v a r . h a n s . e l f t e . g u l d m e d a l j 
+. P a l e s t i n i e r n a s . p r e m i ä r m i n i s t e r . M a h m u d . A b b a s . v i l l e . h a . m e r . m a k t . f ö r . a t t . k u n n a . f o r t s ä t t a . s i t t . a r b e t e . f ö r . f r e d 
+. S å . h a r . d e t . i n t e . b l i v i t . ä n n u 
+. N u . k a n . S v e r i g e s . c h a n s e r . a t t . t i l l . V M - m e d a l j . v a r a . b o r t a 
+. D e t . ä r . i . P h u k e t . o c h . K h a o . L a k . s o m . f l e s t . s v e n s k a r . s a k n a s 
+. D å . s ä g e r . l a g e n . a t t . h a n . i n t e . k a n . d ö m a s . t i l l . v å r d . e l l e r . f ä n g e l s e 
+. K r i g e t . h a r . v a r i t . g r y m t 
+. N u . j a g a r . d e n . n o r s k a . p o l i s e n . d e . f y r a . r å n a r n a . ö v e r . h e l a . l a n d e t 
+. S n a r t . k a n . d e t . b l i . f ö r b j u d e t . f ö r . r y s s a r . a t t . d e m o n s t r e r a 
+. D e t . h a r . d e . ä n n u . i n t e . h i t t a t 
+. D å . k a n . v i . g l ö m m a . h u r . l e d a r n a . k l a n t a d e . s i g . s å . a t t . S v e r i g e . f ö r l o r a d e . s i n a . p o ä n g . i . m a t c h e n . m o t . S a n . M a r i n o 
+. – . V i . s k a . g ö r a . e n . n y . u n d e r s ö k n i n g 
+. U S A s . l e d a r e . ä r . i r r i t e r a d e . p å . F r a n k r i k e . , . T y s k l a n d . o c h . B e l g i e n 
+. E n . s j ä l v m o r d s - b o m b a r e . k ö r d e . e n . l a s t b i l . m e d . s p r ä n g ä m n e n . m o t . e n . p o l i s s t a t i o n 
+. T e r r o r i s t e r . p l a n e r a r . a t t . g ö r a . e t t . n y . a t t a c k . i . U S A 
+. H o n . h a r . c h a n s . a t t . b l i . v ä r l d s m ä s t a r e . d ä r . o c k s å 
+. S å . h ä r . s a d e . h a n . : . – . J a g . t y c k e r . a t t . v i . s k ö t t e . o s s . b r a 
+. E U - k o m m i s s i o n ä r e n . M a r g o t . W a l l s t r ö m . ä r . v ä l k o m m e n . t i l l . S v e r i g e . f ö r . e n . p l a t s . i . r e g e r i n g e n 
+. E n d a . h o p p e t . f ö r . d e . s o m . f å t t . d e t . n y a . h i v - v i r u s e t . ä r . a t t . d e t . s k a . k o m m a . n y a . l ä k e m e d e l . m o t . h i v 
+. P e t e r . F o r s b e r g . ä r . e n . a v . d e m . s o m . s t a n n a r . h e l a . å r e t 
+. F ö r . e n . m å n a d . s e d a n . s j ö n k . o l j e f a r t y g e t . P r e s t i g e . u t a n f ö r . S p a n i e n 
+. S e d a n . d e s s . h a r . v i . b l i v i t . m e r . o c h . m e r . p o s i t i v a 
+. F l e r a . h u n d r a . m ä n n i s k o r . h a r . s k a d a t s . , . s ä g e r . d e n . s p a n s k a . p o l i s e n 
+. – . D e t . k ä n n s . h e l t . o t r o l i g t . s k ö n t 
+. N y b e r g . å k t e . p å . e t t . h ö g t . g u p p 
+. D å . d o g . f l e r . ä n . t j u g o . m ä n n i s k o r 
+. F ö r e . d e t . v a r . h o n . r e k t o r . p å . e t t . s t o r t . u n i v e r s i t e t 
+. E U . ä r . i . k r i s 
+. D e t . h a r . s n a r t . g å t t . e t t . å r . s e d a n . K a j s a . B e r g q v i s t s . h ä l s e n a . g i c k . a v 
+. H a n . h a r . b l i v i t . f ö r v i r r a d . o c h . p s y k i s k t . s j u k 
+. E u r o p e i s k a . U n i o n e n s . k o n t o r . i . B r y s s e l . h a r . v a r i t . a v l y s s n a t 
+. S v e r i g e . s p e l a r . i . s a m m a . g r u p p . s o m . D a n m a r k . , . E n g l a n d . o c h . F i n l a n d 
+. D e t . g ö r . i n g e t . a t t . S v e r i g e . f ö r l o r a d e . d e n . h ä r . m a t c h e n 
+. P å . t o r s d a g e n . f o r t s a t t e . V M . m e d . d a m e r n a s . m i l - l o p p 
+. I . å r . ä r . d e t . h ö j d h o p p a r e n . S t e f a n . H o l m 
+. D e n . a m e r i k a n s k a . l e d a r n a . v i l l . a t t . U S A . e n s a m t . s k a . b e s t ä m m a . ö v e r . I r a k . n ä r . k r i g e t . t a r . s l u t 
+. P o j k e n . s ä g e r . a t t . J a c k s o n . h a r . b j u d i t . h o n o m . p å . v i n . o c h . h a f t . s e x . m e d . h o n o m 
+. H o n . h a r . e r k ä n t . a t t . h o n . h a r . s k j u t i t . i h j ä l . p a s t o r n s . f r u . o c h . o c k s å . s k j u t i t . e n . g r a n n e 
+. P o l i s e n . t r o r . a t t . d e t . v a r . t v å . p a l e s t i n s k a . m ä n . s o m . s p r ä n g d e . b o m b e r n a 
+. B r å k e t . ä r . p i n s a m t . f ö r . U n g . V ä n s t e r . o c h . V ä n s t e r p a r t i e t . s o m . s ä g e r . a t t . e n . a v . d e r a s . v i k t i g a s t e . f r å g o r . ä r . a t t . k v i n n o r . b e h a n d l a s . r ä t t v i s t 
+. J a k t e n . p å . f ö r b j u d n a . v a p e n . s k a . n u . t a s . ö v e r . a v . e n . n y . s t ö r r e . a m e r i k a n s k . g r u p p . m i l i t ä r e r 
+. S k o l a n s . f ö r l o r a r . s i t t . t i l l s t å n d 
+. – . J a g . t r o d d e . a t t . d e t . s k u l l e . b l i . s å . , . m e n . j a g . v a r . ä n d å . n e r v ö s . , . s ä g e r . C a l l e . J o n s s o n . t i l l . n y h e t s b y r å n . T T 
+. M e n . d e t . s v e n s k a . s p e l e t . f u n g e r a d e . i n t e . a l l s . b r a 
+. S å . b l i r . d e t . i n t e 
+. D e n . r y s k a . p o l i s e n . s ä g e r . a t t . t r e . t e r r o r i s t e r . ö v e r l e v d e . o c h . ä r . f å n g a r 
+. D e . d i s k u t e r a d e . m u r e n . i . I s r a e l . l ä n g e 
+. M e n . E l i t . b l e v . s v e n s k a . m ä s t a r e 
+. I r a k . s ä g e r . a t t . a l l a . f ö r b j u d n a . v a p e n . n u . ä r . f ö r s t ö r d a 
+. D ä r f ö r . f å r . i n t e . d å l i g a . e l l e r . s k a d a d e . f a r t y g . å k a . i . Ö s t e r s j ö n 
+. Ö v e r . t j u g o . t u s e n . m ä n n i s k o r . t v i n g a d e s . a t t . f l y 
+. T j e n i e n i e n . t i l l h ö r . R y s s l a n d 
+. I s r a e l s . m i l i t ä r c h e f e r . s ä g e r . a t t . d e . ä n d å . k o m m e r . a t t . a n f a l l a . G a z a . o m . d e t . b e h ö v s 
+. H a n . f i c k . h j ä l p . a t t . r y m m a . i . f r e d a g s 
+. P o l i s e n . f ö r s ö k e r . t a . r e d a . p å . o m . d e t . f i n n s . n å g o t . s a m b a n d . m e l l a n . d e . o l i k a . a t t a c k e r n a 
+. A f g h a n i s t a n . h a r . i n t e . h a f t . d e m o k r a t i . f ö r u t 
+. D e . f r i a . j o u r n a l i s t e r n a . k o m . p å . o n s d a g e n . h e m . t i l l . F r a n k r i k e 
+. D e t . g e r . S v e r i g e . e n . l i t e n . , . l i t e n . c h a n s . a t t . k l a r a . s i g . v i d a r e . i . t u r n e r i n g e n 
+. H u r . v a p n e n . t o g s . i n . p å . f ä n g e l s e t . ä r . f o r t f a r a n d e . h e m l i g t 
+. I . m å n g a . å r . h a r . k r i s t n a . o c h . m u s l i m s k a . g r u p p e r 
+. D e t . s k a . b l i . h å r d a r e . s t r a f f . o c h . h å r d a r e . r e g l e r . f ö r . f o t b o l l 
+. D e n . a n d r a . f ö r k l a r i n g e n . ä r . a t t . m å n g a . u n g d o m a r . h a r . m e r . ä n . e t t . k o n t a n t - k o r t . t i l l . s i n . m o b i l t e l e f o n 
+. D e t . k o m m e r . a t t . k o s t a . m y c k e t . p e n g a r . a t t . b y g g a . u p p . l a n d e t . i g e n 
+. M å n g a . t r o r . a t t . d e . l j u g e r 
+. M e n . i . o n s d a g s . t o g . l u g n e t . s l u t 
+. O m . e t t . f ö r e t a g . b l i r . f ö r . m ä k t i g t . k a n . d e t . b e s t ä m m a . f ö r . m y c k e t . o m . p r i s e r . o c h . a n n a t 
+. S t o r b r i t a n n i e n . ä r . e t t . s t o r t . o c h . v i k t i g t . l a n d . i . E U 
+. D e . v i l l . k o m m a . ö v e r e n s . m e d . I r a k . g e n o m . a t t . s a m t a l a . m e d . d e . i r a k i s k a . l e d a r n a 
+. V i s s t . v a n n . h o n . d e n . f ö r s t a . t ä v l i n g e n . i . h ö s t a s 
+. H a n . s l ä p p t e s . i . f ö r r a . v e c k a n 
+. V å l d e t . f o r t s ä t t e r . i . I r a k 
+. D e . v i l l . a t t . v i . l ä m n a r . I r a k 
+. D e t . v a r . b a r a . s m å . r e s t e r . a v . l ä k e m e d e l . i . v a t t n e t 
+. D e t . f i n n s . r i s k . a t t . d e t . b l i r . b r å k . m e l l a n . s h i a m u s l i m e r . o c h . s u n n i m u s l i m e r . e f t e r . b o m b e r n a . p å . t i s d a g e n 
+. N u . s ä g e r . R ö d a . K o r s e t s . l e d a r e . ä n d å . a t t . I s r a e l . g ö r . f e l 
+. D å . k a n . d e t . e n a d e . C y p e r n . b l i . m e d . i . E u r o p e i s k a . u n i o n e n . , . E U 
+. D e t . s v e n s k a . h e r r l a g e t . p å . f y r a . g å n g e r . f e m t i o . m e t e r . m e d l e y . k o m . p å . a n d r a . p l a t s . i . f i n a l e n 
+. A I K . l y c k a d e s . i n t e . s t o p p a . M B . , . S o m . v a n n . m e d . 4 - 3 
+. E m m a . I g e l s t r ö m . h a r . s j u k d o m e n . b u l i m i 
+. – . V i . v i l l . i n t e . b l i . b e s t u l n a . , . v i . v i l l . f å . b e t a l t . f ö r . v å r t . a r b e t e . , . s k r i v e r . d e 
+. D e n . s v e n s k a . s t j ä r n a n . i . h ä s t h o p p n i n g . , . M a l i n . B a r y a r d . , . h a r . v u n n i t . e n . s t o r . t ä v l i n g 
+. E U s . g r u n d l a g . m å s t e . g o d k ä n n a s . i . a l l a . 2 5 . m e d l e m s l ä n d e r . f ö r . a t t . d e n . s k a . b ö r j a . g ä l l a 
+. D e t . s ä g e r . s j u . k ä n d a . b a r n l ä k a r e . t i l l . t i d n i n g e n . D a g e n s . N y h e t e r 
+. U S A . o c h . T y s k l a n d . v a r . d e . e n d a . s o m . r ö s t a d e . n e j 
+. T v å . g u l d . , . e t t . s i l v e r . o c h . t r e . b r o n s m e d a l j e r . b l e v . d e t 
+. F r e d r i k s s o n . t y c k e r . a t t . e l - b o l a g e n . b l i r . f ö r . d å l i g t . k o n t r o l l e r a d e 
+. T o n y . O l s s o n . h a r . s u t t i t . i . f ä n g e l s e . i . m e r . ä n . f y r a . å r 
+. D e . f l e s t a . s v e n s k a r . t y c k e r . n u m e r a . a t t . k ä r n k r a f t e n . s k a . v a r a . k v a r 
+. N ä r . d e n . e x p l o d e r a d e . d o g . m i n s t . t o l v . m ä n n i s k o r 
+. P å . d e n . l i l l a . ö n . G r e n a d a . v a r . d e t . v ä r s t 
+. U S A . v a n n . ö v e r . S v e r i g e . i . k v a r t s f i n a l e n . i . D a v i s . C u p 
+. M a n n e n . s k ö t . e t t . p a r . s k o t t . m e d . e t t . h a g e l g e v ä r . m e n . i n g e n . s k a d a d e s 
+. E n . a n n a n . s v e n s k a . v a r . m e d . i . t ä v l i n g e n 
+. I b l a n d . k a n . d e . o c k s å . h a . k ä r n v a p e n . o m b o r d 
+. D e t . s v e n s k a . d a m l a g e t . i . c u r l i n g . ä r . p r e c i s . l i k a . b r a . s o m . d e t . b r u k a r . v a r a 
+. N ä r . d e . ä r . o s a m s . m e d . U S A . p å v e r k a r . d e t . o c k s å . m å n g a . a n d r a . l ä n d e r 
+. H a n s . å s i k t e r . ä r . f a k t i s k t . l i t e . l ö j l i g a 
+. G ö r a n . P e r s s o n . v i l l . a t t . d e . s t o r a . l ä n d e r n a . i . F N . s k a . f å . m i n d r e . m a k t 
+. M i c h a e l a . D o r f m e i s t e r . f r å n . Ö s t e r r i k e . v a n n . g u l d e t . i . s u p e r - G 
+. E k o n o m i n . v a r . h å r t . s t y r d . a v . s t a t e n 
+. I . S i n g a p o r e . h a r . n y l i g e n . e n . m ä n n i s k a . d ö t t . a v . S A L 
+. ” . T a c k . f ö r . t a g e n . k o n t a k t 
+. S t a t e n s . r ö s t r ä k n a r e . h a r . f u s k a t 
+. V i c t o r i a . S v e n s s o n . k o m . p å . f j ä r d e . p l a t s . o c h . M a l i n . M o s t r ö m . p å . s j u n d e 
+. C a m i l l a . J o h a n s s o n . f ö r l o r a d e . 1 0 0 . t u s e n . k r o n o r 
+. E d s b y n . v a n n . e f t e r . e n . m y c k e t . j ä m n . f i n a l . m e d . f a n t a s t i s k . b a n d y 
+. H u r . s k a . d e t . g å . i . V M . , . h a r . m å n g a . u n d r a t 
+. D e t . g å r . i n t e . a t t . b e s k r i v a 
+. D e t . ä r . d å l i g t . f ö r . m i l j ö n . , . s ä g e r . f o l k p a r t i e t s . l e d a r e . L a r s . L e i j o n b o r g . t i l l . D a g e n s . N y h e t e r 
+. R u m ä n i e n . v a n n . ö v e r . S v e r i g e . m e d . 3 2 - 2 5 
+. M y c k e t . l ä n g r e . t i d . ä n . d e . h a d e . r ä k n a t . m e d 
+. D e t . v a r . i n t e . n å g o n . s ä r s k i l t . l å n g . r e s a . e f t e r s o m . V a t i k a n s t a t e n . l i g g e r . m i t t . i . R o m 
+. D e . f å r . i n t e . v a r a . m e d . i . f o r t s ä t t n i n g e n 
+. D e t . v a r . r i k t i g t . m å n g a . å r . s e d a n . d e t . h ä n d e . s e n a s t 
+. P o l i s e r n a . f i c k . l a r m . o m . a t t . e n . 1 9 - å r i g . t j e j . h ö l l . p å . a t t . b l i . v å l d t a g e n . i . T ä b y . u t a n f ö r . S t o c k h o l m 
+. I . o m r å d e t . A c e h . k r o s s a d e s . h e l a . s t ä d e r 
+. T j e j e r n a . s k a p a d e . m a s s o r . m e d . m å l c h a n s e r 
+. F l o d v å g o r n a . s o m . k o m . d å n a d e . i n . m o t . s t r ä n d e r n a . v a r . m e r . ä n . t i o . m e t e r . h ö g a 
+. D e n . h ä r . m a t c h e n . v a r . j ä m n . o c h . s p ä n n a n d e 
+. F a b i a n . B e n g t s s o n . v a r . f å n g e . h o s . k i d n a p p a r n a . i . ö v e r . t v å . v e c k o r 
+. O m . d e . v i n n e r . g r u p p e n . f å r . l a g e t . s p e l a . s e m i f i n a l 
+. L e i j o n b o r g . t y c k e r . a t t . s v e n s k a r n a . b ö r . a r b e t a . m e r 
+. F l e r . ä n . h ä f t e n . a v . a l l a . s o m . f i c k . r ö s t a . l ä t . b l i . d e t 
+. F ö r r a . å r e t . k o m . d e t . l i t e . m e r . ä n . f y r a . h u n d r a . t u s e n . f l y k t i n g a r . t i l l . E u r o p a 
+. D e . s o m . p r o t e s t e r a r . m o t . R o b e r t . M u g a b e . s t r a f f a s 
+. D e t . b l e v . k ä n t . i . f ö r r a . v e c k a n 
+. H a n . s k a . i n t e . s k i c k a s . t i l l . F r a n k r i k e 
+. 5 2 - å r i n g e n . ä r . o c k s å . m i s s t ä n k t . f ö r . a t t . h a . m ö r d a t . d e n . 2 6 - å r i g a . M a l m ö k v i n n a n 
+. M e n . p o l i s e n . m i s s t ä n k e r . a t t . d e n . k a n . h a . s l ä p p t s . u t . f r å n . T r e l l e b o r g s . h a m n 
+. F l e r a . h u n d r a . m ä n n i s k o r . h a r . r ä d d a t s . f r å n . d e . r a s a d e . h u s e n 
+. D e n . n y a . s t o r m e n . g j o r d e . a t t . ä n n u . f l e r . m ä n n i s k o r . b l e v . u t a n . s t r ö m 
+. Ö v e r . t j u g o . m ä n n i s k o r . d ö d a d e s . a v . b o m b e n 
+. P å . t i s d a g s e f t e r m i d d a g e n . k o m m e r . d o m e n . m o t . M i j a i l o . M i j a l o v i c 
+. D e . f l e s t a . a v . o l y c k o r n a . b e r o d d e . p å . a t t . d e t . v a r . h a l t . p å . v ä g a r n a 
+. D e t . h a r . b a r a . h ä n t . t v å . g å n g e r . f ö r u t . a t t . S v e r i g e . f å t t . g u l d . i . f r i i d r o t t s - V M 
+. P a t r i k . S j ö b e r g . o c h . L u d m i l a . E n g q v i s t . ä r . d e . e n d a . s v e n s k a r n a . s o m . f ö r u t . l y c k a t s . t a . g u l d 
+. F r ö l u n d a . h a r . v u n n i t . d e . t r e . f ö r s t a . m a t c h e r n a . i . f i n a l e n . o c h . b e h ö v e r . b a r a . v i n n a . e n . t i l l . I . h e l g e n . b ö r j a d e . a l l s v e n s k a n . i . f o t b o l l 
+. K r i g e t . h a r . b l i v i t . m y c k e t . d y r a r e . ä n . U S A . h a d e . r ä k n a t . m e d 
+. I . L i d k ö p i n g . d o g . f ö r r a . å r e t . t v å . p e r s o n e r . a v . l e g i o n e l l a 
+. Y l v a . J o h a n s s o n s . v i k t i g a s t e . u p p g i f t . b l i r . ä l d r e o m s o r g e n 
+. I . d a g . h a r . U S A . , . F r a n k r i k e . , . K i n a . , . R y s s l a n d . o c h . S t o r b r i t a n n i e n . m e s t . m a k t . i . F N 
+. N u . s i k t a r . S v e r i g e s . d a m l a n d s l a g . p å . a t t . v i n n a . s i n . f ö r s t a . V M - m e d a l j 
+. I . g å r . s ö n d a g . b l e v . g u l d - g l a n s e n . l i t e . s v a g a r e 
+. D e n . s e n a s t e . v e c k a n . h a r . 8 0 . p a l e s t i n i e r . o c h . t i o . i s r a e l e r . d ö t t . i . s t r i d e r . o c h . a t t a c k e r 
+. D e t . r u l l a d e . s å . s n a b b t . a t t . d e t . s p å r a d e . u r 
+. P o l i s e n . m i s s t ä n k t e . f ö r s t . a t t . d e t . v a r . n å g o n . s o m . k ä n d e . h e n n e . s o m . k i d n a p p a t . h e n n e 
+. E n . a v . d e . a l l r a . b ä s t a . i . S v e r i g e . v a r . H e n r i k . Z e t t e r b e r g 
+. J o s e f i n e . ä r . e n . m y c k e t . v a s s . m å l s k y t t 
+. D e . s v e n s k a . a n f a l l a r n a . h a d e . s v å r t . a t t . k o m m a . f r a m 
+. T i d n i n g e n . s ä g e r . a t t . p o l i s e n . ä r . s ä k e r . p å . a t t . s e x . m ä n . f r å n . M a r o c k o . ä r . s k y l d i g a . t i l l . s p r ä n g n i n g e n 
+. U l f . S p å n g . a n h ö l l s . p å . t o r s d a g e n 
+. M i j a i l o v i c . ä r . i n t e . l ä n g r e . s v e n s k . m e d b o r g a r e 
+. P å . S k a n s e n . i . S t o c k h o l m . v a r . d e t . s t o r . f e s t 
+. E n . m o s k é . ä r . e n . r e l i g i ö s . b y g g n a d 
+. M e n . d e t . v a r . s k ö n t . a t t . v i n n a . i . a l l a . f a l l . , . s a d e . h o n 
+. I s r a e l s . r e g e r i n g . s t r u n t a r . i . k r i t i k e n 
+. U n d e r . n a t t e n . t i l l . t i s d a g . n å d d e . s t o r m e n . l a n d e t . K u b a 
+. P å . t i s d a g e n . s a d e . e n . h ö g . c h e f . v i d . E G - d o m s t o l e n . a t t . s n u s e t . f o r t f a r a n d e . s k a . v a r a . f ö r b j u d e t . i . E U 
+. F o p p a . k a n . i n t e . s p e l a . p å . m i n s t . 6 - 8 . v e c k o r 
+. D e . f l e s t a . a v . d e . d ö d a . g e r i l l a s o l d a t e r n a . ä r . u n g d o m a r 
+. E n . l å n g . t i d . a v . o s ä k e r h e t . o m . v a l e t . ä r . s l u t 
+. A l d r i g . t i d i g a r e . h a r . b e n s i n e n . v a r i t . s å . d y r . i . S v e r i g e 
+. S j u . t u s e n . b r a n d m ä n . j o b b a r . j u s t . n u . m e d . a t t . s l ä c k a . b r ä n d e r n a 
+. C h r i s t i a n . f i c k . p r i s e t . Å r e t s . m a n l i g a . i d r o t t a r e 
+. F ö r e t a g e t . E r i c s s o n . s t ä n g e r . s i n . f a b r i k . i . N y n ä s h a m n . o c h . 4 6 3 . p e r s o n e r . f ö r l o r a r . s i n a . j o b b 
+. D å . h a r . U m e å . h e m m a p l a n 
+. Ä n . s å . l ä n g e . b e s t ä m m e r . U S A . i . I r a k 
+. Å k l a g a r e n . v i l l e . a t t . B e r l u s c o n i . s k u l l e . d ö m a s . t i l l . å t t a . å r s . f ä n g e l s e 
+. D e t . ä r . ä g a r n a . t i l l . N H L - l i g a n . s o m . h e l t . e n k e l t . s t o p p a r . a l l t . s p e l . i . N H L - s e r i e r n a 
+. D e t . k a n . i n t e . n å g o n . t i d n i n g 
+. T i l l . o c h . m e d . l i n j e m a n n e n 
+. S a m t i d i g t . h a r . d e t . p o l i t i s k a . b r å k e t . b ö r j a t 
+. D e t . t r o r . ä v e n . J a n . E d l i n g 
+. D e t . s v e n s k a . V M - l a g e t . f å r . e n . r i k t i g t . t u f f . s t a r t . i . V M 
+. M å n g a . h j ä l p - o r g a n i s a t i o n e r . h a r . s a m l a t . i n . p e n g a r . f ö r . a t t . h j ä l p a . d e . s o m . d r a b b a t s . a v . f l o d v å g e n 
+. D e . s e n a s t e . t i d e n . h a r . a l - Q a i d a . d ö d a . f l e r a . m ä n n i s k o r . f r å n . E u r o p a . o c h . U S A . s o m . v a r i t . i . S a u d i a r a b i e n 
+. A n d e r s . A u k l a n d . v a n n . l o p p e t . s t r a x . f ö r e . R a u l . O l l e . f r å n . E s t l a n d 
+. F N s . l ä n d e r . h a r . v a r i t . t v e k s a m m a . t i l l . U S A s . p l a n e r 
+. F i n l a n d . h a d e . i n t e . e n . c h a n s . i . s e m i f i n a l e n . i . f o t b o l l s - E M 
+. T y s k l a n d . v a n n . m a t c h e n . m e d . 4 - 1 
+. S j u k h u s e n . ä r . f u l l a . a v . s k a d a d e . m ä n n i s k o r 
+. P å v e n . J o h a n n e s . P a u l u s . h a r . b l i v i t . f r i s k . i g e n 
+. H a n . h a r . t i l l . o c h . m e d . g j o r t . e n . e g e n . l a g 
+. D e t . h a r . I s r a e l s . r e g e r i n g . l o v a t 
+. S v e r i g e . f i c k . t v å . m e d a l j e r . i . h e r r a r n a s . s p r i n t - t ä v l i n g . i . v ä r l d s c u p e n 
+. D e n . h ä r . v e c k a n . s k u l l e . v ä r l d s m ä s t e r s k a p e n . i . i s h o c k e y . f ö r . d a m e r . h a . b ö r j a t 
+. M e n . h a n . s ä g e r . a t t . d e t . i n t e . ä r . h a n . s o m . h a r . g j o r t . h e n n e . m e d . b a r n 
+. I . s t a d e n . f i n n s . f l e r a . t u s e n . r e b e l l e r 
+. U S A . f ö r s ö k e r . o r d n a . e n . n y . r e g e r i n g . i . l a n d e t 
+. E n . i s r a e l i s k . h e l i k o p t e r . s k ö t . r a k e t e r . m o t . H a m a s - l e d a r e n s . b i l 
+. P a p p a n . t y c k t e . a t t . F a d i m e . s k ä m d e . u t . f a m i l j e n 
+. D e . s v e n s k a . m ä s t a r n a . v i s a d e . ä n . e n . g å n g . a t t . d e . ä r . S v e r i g e s . b ä s t a . l a g 
+. D e n . h ö g s t e . c h e f e n . s l u t a d e . s i t t . j o b b . o c h . ä v e n . s t y r e l s e n s . o r d f ö r a n d e . , . L a r s . R a m q v i s t 
+. P o l i s e n . h a d e . f å t t . r e d a . p å . a f f ä r e n . o c h . l u r a d e . h o n o m 
+. H a n . g j o r d e . s e g e r m å l e t 
+. D e t . s ä g e r . U S A . j a . t i l l 
+. D e t . v a r . s å . m y c k e t . p e n g a r . S k a n d i a . f ö r l o r a d e . p å . d e . e x t r a . l ö n e r n a 
+. U n d e r . r ä t t e g å n g e n . h a r . d e . t v å . f l i c k o r n a . h a r . b e r ä t t a t . v a d . d e . v a r i t . m e d . o m 
+. S m y c k e t . v a r . e n . i d - b r i c k a . m e d . n a m n . o c h . p e r s o n n u m m e r . p å 
+. – . J a g . v å g a d e . i n t e . t r o . a t t . j a g . k u n d e . v i n n a 
+. F o r s k a r n a . s ä g e r . a t t . k r ä m e n . i n n e h å l l e r . e t t . ä m n e . s o m . s k y d d a r . m o t . h i v - v i r u s e t 
+. O p e r a n . g a v . e n . h y l l n i n g s - f ö r e s t ä l l n i n g . a v . b a l e t t e n . N ö t k n ä p p a r e n 
+. P a t r i c . N i l s o n . k a n . b l i . a v s t ä n g d . i . t v å . å r . f ö r . f u s k . m e d . d o p n i n g 
+. I . m e r . ä n . e n . m å n a d . h a r . d e t . v a r i t . l u g n t . i . I s r a e l 
+. U S A s . l e d a r e . ä r . s ä k r a . p å . a t t . I r a k . h a r . k v a r . f ö r b j u d n a . v a p e n . o c h . a t t . d e . t ä n k e r . a t t . a n v ä n d a . d e m 
+. I . m å n g a . m å n a d e r . h a r . r e b e l l e r n a . h a f t . m a k t e n . i . F a l l u j a 
+. M a t h i a s . F r e d r i k s s o n . v a n n . t r e m i l s l o p p e t . i . f r i s t i l 
+. E l - s t r ö m m e n . h a r . f ö r s v u n n i t . f ö r . m å n g a . s v e n s k a r . d e n . s e n a s t e . m å n a d e n 
+. M å n g a . p o l i s e r . o c h . a n d r a . t r o r . f o r t f a r a n d e . a t t . d e t . v a r . C h r i s t e r . P e t t e r s s o n . s o m . s k ö t . i h j ä l . O l o f . P a l m e . p å . S v e a v ä g e n . 1 9 8 6 
+. T T . / . 8 . S I D O R . M e n . s t a t s m i n i s t e r . G ö r a n . P e r s s o n . v i l l . a t t . B o d s t r ö m . s k a . v a r a . k v a r 
+. D e t . f i n n s . f å . a n d r a . f ö r e t a g . s o m . k a n . t ä v l a . o m . l ä g r e . p r i s e r 
+. P o j k a r n a . f i c k . f y r a . å r s . u n g d o m s v å r d . s o m . s t r a f f 
+. M a t c h e n . s l u t a d e . 2 6 - 2 6 
+. D e . h a r . v a r i t . n ä r a . a t t . v i n n a . f l e r a . s t o r a . t ä v l i n g a r . m e n . i n t e . l y c k a t s 
+. D e n . t r e d j e . o c h . s i s t a . f i l m e n . i . s e r i e n . S a g a n . o m . r i n g e n . , . K o n u n g e n s . å t e r k o m s t . , . k a n . f å . r i k t i g t . m å n g a . O s c a r s 
+. E n . d o m s t o l . h a r . b e s t ä m t . o m . h ä k t n i n g e n 
+. H o n . h a r . b ö r j a t . p l u g g a . t i l l . l ä k a r e . o c h . t r ä n a r . f a k t i s k t . m i n d r e . ä n . f ö r u t 
+. S k a n d i a . h a r . d e t . s e n a s t e . å r e t . f å t t . m y c k e t . k r i t i k 
+. N ä r . b r o t t s l i n g a r n a . s e d a n . h a r . g j o r t . b r o t t e t . h a r . p o l i s e r n a . k u n n a t . g r i p a . d e m 
+. K u n g e n . o c h . d r o t t n i n g e n . h a r . j u s t . v a r i t . p å . b e s ö k . i . d e t . l i l l a . l a n d e t . B r u n e i 
+. S v e r i g e . s p e l a r . i . s a m m a . g r u p p . s o m . U n g e r n . , . I s l a n d . , . M a l t a . o c h . K r o a t i e n 
+. F a b i a n . B e n g t s s o n . k i d n a p p a d e s . i . G ö t e b o r g 
+. S v e r i g e . s p e l a d e . b r a . o c h . h a d e . t u r e n . p å . s i n . s i d a 
+. D e t . v a r . d e r a s . f j ä r d e . E M - g u l d . i . r a d 
+. K a n s k e . ä r . h o n . r ä d d . a t t . b l i . a t t a c k e r a d 
+. N ä r . p o l i s e n . h i t t a d e . j ä g a r e n . s å g . d e . e n . a r g . b j ö r n . i . n ä r h e t e n 
+. P å . t o r s d a g e n . h ö l l . F r a n k r i k e s . p r e s i d e n t . J a c q u e s . C h i r a c . e t t . t a l . t i l l . f o l k e t 
+. I . e n . a r t i k e l . i . D a g e n s . N y h e t e r . k r ä v e r . d e . a t t . r e g e r i n g e n . s k a . s t o p p a . k o p i e r i n g e n 
+. H o n . ä r . m y c k e t . g l a d . ö v e r . a t t . s p e l e t . f u n g e r a r . s å . b r a 
+. T h o m a s . J o h a n s s o n . h a r . v a r i t . s k a d a d . l ä n g e 
+. S e d a n . m å s t e . o c k s å . p r e s i d e n t . V l a d i m i r . P u t i n . g o d k ä n n a . l a g e n 
+. I . I t a l i e n . g r e p . p o l i s e n . e n . m a n . s o m . m i s s t ä n k s . h a . p l a n e r a t . b o m b d å d e t . i . M a d r i d . d e n . 1 1 . m a r s . i . å r 
+. M e t a l l b u r k a r . s m ä l t s . o c h . a n v ä n d s . t i l l . e x e m p e l . i . b i l a r . o c h . t i l l . b y g g e n 
+. F ö r s l a g e t . f i c k . m y c k e t . s k ä l l 
+. M a t c h e n . m o t . F ä r j e s t a d . v a r . d e n . f ö r s t a . p å . l ä n g e 
+. P o l i s e n . t r o r . a t t . p o j k a r n a . i . M a l m ö . v i l l e . g ö r a . s a m m a . s a k . p å . s i n . s k o l a 
+. E n . m a n . b l e v . p å k ö r d . n ä r . h a n . t o g . b o r t . e t t . n e d f a l l e t . t r ä d . f r å n . v ä g e n 
+. I . m å n d a g s . d ö d a d e s . m i n s t . s e x t i o . v a n l i g a . m ä n n i s k o r . n ä r . r e b e l l e r n a . s k ö t . g r a n a t e r . i n . i . s t a d e n 
+. D e n . n y e . p å v e n . t y c k e r . u n g e f ä r . l i k a d a n t 
+. V i . g å r . d i r e k t . t i l l . s e m i f i n a l 
+. M e n . d e . a m e r i k a n s k a . m i l i t ä r e r n a . s ä g e r . a t t . h a n . t r o l i g e n . d ö d a d e s . u n d e r . k r i g e t 
+. T y s k l a n d . o c h . F r a n k r i k e . v ä g r a r . a t t . v a r a . m e d . o m . e t t . k r i g 
+. I g å r . , . o n s d a g . , . k o m . ö v e r . t u s e n . s v e n s k a r . h e m . f r å n . P h u k e t . i . T h a i l a n d 
+. H a n . g i c k . f r a m . t i l l . p o l i s b i l e n . o c h . k n a c k a d e . p å . r u t a n 
+. I . m å n d a g s . d ö m d e . L u n d s . t i n g s r ä t t . m a n n e n . f ö r . m o r d e t . p å . H e l é n . N i l s s o n 
+. H a n . s ä g e r . s j ä l v . a t t . h a n . i n t e . h a r . g j o r t . n å g o t . f e l 
+. A t t . s ä g a . a t t . G e o r g e . B u s h . s k u l l e . v a r a . o i n t e l l i g e n t . ä r . h e l t . f e l . , . s a d e . G ö r a n . P e r s s o n . t i l l . A f t o n b l a d e t 
+. J u s t i n . T i m b e r l a k e s . s k i v a . J u s t i f i e d . b l e v . å r e t s . b ä s t a . s k i v a 
+. D e t . v i l l . i n t e . s e r b e r n a 
+. A t t . S v e r i g e . s ä g e r . n e j . b e t y d e r . i n t e . m y c k e t 
+. D å . v a r . d e t . o v a n l i g t . a t t . k v i n n o r . f i c k . r ö s t a 
+. N ä s t a n . 5 0 . t u s e n . h u s h å l l . s a k n a r . f a s t . t e l e f o n 
+. E n . a v . d e m . s o m . å t a l a s . ä r . d e n . m a n . s o m . v a r . c h e f . f ö r . L i n a t e - f l y g p l a t s e n . n ä r . o l y c k a n . h ä n d e 
+. F N - c h e f e r n a . s o m . s k u l l e . l e d a . h j ä l p e n . s k ö t t e . i n t e . s i n a . j o b b . o r d e n t l i g t 
+. H a n . f i c k . n ä s t a n . a l l a . r ö s t e r 
+. T e r r o r i s t e r n a . i . g r u p p e n . a l - Q a i d a . p l a n e r a r . a t t . a n f a l l a . N e w . Y o r k . e l l e r . W a s h i n g t o n . , . s ä g e r . r e g e r i n g e n 
+. K a j s a . B e r g q v i s t . h a r . h a f t . p r o b l e m . m e d . s k a d o r . i . f o t e n . i . f l e r a . å r 
+. F l e r . ä n . t i o . m ä n n i s k o r . s k a d a d e s 
+. – . J a g . k ö p t e . e n . b u r k . m e d . k o s t t i l l s k o t t . i . e n . h ä l s o k o s t a f f ä r . i . U S A 
+. V a r f ö r . s t r u n t a r . f o l k . i . E U - v a l e t . ? . P å . S w e d i s h . M a t c h . ä r . m å n g a . a r g a 
+. F r e d r i k . L j u n g b e r g . v a r . l y s a n d e . i . d e n . h ä r . m a t c h e n 
+. D e t . r ä c k t e . f ö r . a t t . t a . S ö d e r t ä l j e . t i l l . S M - s l u t s p e l 
+. P å . o n s d a g e n . b l e v . d e t . k l a r t . v e m . s o m . f å r . å r e t s . p r i s 
+. N u . f å r . d e . h j ä l p . a v . p e r s o n a l . f r å n . F i n l a n d . o c h . T y s k l a n d 
+. I r a k s . r e g e r i n g . v i l l . o c k s å . i n f ö r a . d ö d s s t r a f f . u n d e r . e n . t i d 
+. V a d . s o m . k o m m e r . a t t . h ä n d a . i . f o r t s ä t t n i n g e n . v e t . i n t e . n å g o n 
+. I . f ö r h ö r e n . h a r . h a n . s a g t . a t t . h a n . m å d d e . v ä l d i g t . d å l i g t . p s y k i s k t . d e n . d a g e n 
+. D e n . n y e . p r e s i d e n t e n . l o v a d e . a t t . d e t . s k a . h å l l a s . v a l . i . B o l i v i a . s å . s n a b b t . d e t . g å r 
+. I . e n . a n n a n . m a t c h . h o t a d e . h a n . e n . d o m a r e 
+. H a n . s a d e . d å . a t t . d e t . ä r . v a n l i g t . i . S v e r i g e . a t t . i n g e n . v å g a r . t a . a n s v a r 
+. H o n . h a r . e r k ä n t . a t t . h o n . s m u g g l a t . i n . e n . m o b i l t e l e f o n . s o m . e n . a v . f å n g a r n a . s k u l l e . a n v ä n d a 
+. B r u n e i . ä r . e n . d i k t a t u r . d ä r . s u l t a n e n . b e s t ä m m e r . a l l t 
+. E n . m ä n n i s k a . d ö d a d e s . a v . b o m b e n 
+. K a j s a . B e r g q v i s t . h o p p a d e . b r a . i . V M - f i n a l e n . i . h ö j d h o p p 
+. – . J ä t t e k u l . ! . P å . s ö n d a g e n . v a n n . S t o c k h o l m . d e n . f j ä r d e . f i n a l e n . m o t . S o l n a 
+. M e n . H a m m a r b y . f ö r l o r a d e . s i n . f e m t e . f i n a l 
+. F å g e l - i n f l u e n s a n . k a n . b a r a . s p r i d a s . f r å n . f å g l a r . t i l l . m ä n n i s k o r 
+. M e n . d e t . ä r . i n t e . b a r a . t e r r o r i s t e r n a . s o m . r å k a r . i l l a . u t . n ä r . i s r a e l e r n a . a n f a l l e r 
+. D e t . ä r . i . E U - k o m m i s s i o n e n . l e d a r n a . f ö r . E u r o p e i s k a . U n i o n e n . a r b e t a r 
+. D e t . v a r . i s l ä n n i n g e n . S j ó n . s o m . f i c k . å r e t s . p r i s . f ö r . b o k e n . S k u g g a - B a l d u r 
+. M e n . s k o l a n . l i k n a d e . m e r . e t t . f ä n g e l s e 
+. H o n . v a r . i n t e . i . t o p p f o r m . m e n . l y c k a d e s . ä n d å . t a . e n . m e d a l j 
+. S t e f a n . H o l m . v a n n . h ö j d h o p p e t . p å . 2 . 3 3 
+. F ö r s ä k r i n g e n . v a r . f ö r . d y r . f ö r . m u s e e t 
+. D e . s k a . u n d e r s ö k a . o m . I r a k . h a r . f ö r b j u d n a . v a p e n 
+. H a n . v å r d a d e s . d ä r . f ö r . a t t . h a n . v a r . d j u p t . d e p r i m e r a d 
+. Ä n d å . h a r . f l e r a . l ä n d e r . s a g t . j a . t i l l . f ö r s l a g e t 
+. D e t . h ä r . ä r . n å g r a . f ö r s l a g . t i l l . n y a . l a g a r . i . E U . : . E U . s k a . f å . e n . e g e n . p r e s i d e n t . o c h . u t r i k e s m i n i s t e r 
+. D e t . s ä g e r . G ö r a n . G u s t a v s s o n . s o m . ä r . c h e f . p å . e n . a v d e l n i n g . p å . f ä n g e l s e t . H a l l 
+. U S A . s t a r t a d e . k r i g e t . m o t . I r a k . f ö r . a t t . d e . t r o d d e . a t t . I r a k . h a d e . f ö r b j u d n a . v a p e n 
+. P u c k . e f t e r . p u c k . r a m l a d e . i n . i . d e t . s v e n s k a . m å l e t 
+. N u . s k a . v i . o c k s å . u n d e r s ö k a . v a d . d e . t y c k e r . o m . d e m o k r a t i . , . s ä g e r . S t a f f a n . E k l u n d . p å . U n g d o m s s t y r e l s e n . t i l l . t i d n i n g e n . A f t o n b l a d e t 
+. D ä r . f i n n s . m å n g a . a v . E U s . k o n t o r . o c h . d ä r . a r b e t a r . m å n g a . a v . E U s . p o l i t i k e r 
+. D e t . b e t y d e r . i n t e . a t t . s a m a r b e t e t . m e l l a n . l ä n d e r n a . s l u t a r 
+. I n g e n . v e t . v e m . s o m . ä r . s k y l d i g . t i l l . b o m b n i n g e n 
+. I n g e n . v e t . e x a k t . v i l k a . g r u p p e r . d e t . ä r . s o m . k i d n a p p a r . u t l ä n n i n g a r n a 
+. N u . k r ä v e r . A m n e s t y . a t t . U S A . b ä t t r a r . s i g . o c h . f ö l j e r . r e g l e r n a . o m . m ä n s k l i g a . r ä t t i g h e t e r 
+. M ö t e t . ä r . v i k t i g t 
+. O m . n å g o n . d a g . b l i r . d e t . k l a r t . v e m . s o m . v a n n . v a l e t . i . N o r d i r l a n d 
+. F ö r . t r e . å r . s e d a n . v a r . d e t . u n g e f ä r . 5 0 . b a r n 
+. N u . f i n n s . i n t e . J u g o s l a v i e n . m e r 
+. N ä r . f o l k . s a m l a s . t i l l . s t o r a . m ö t e n . ä r . d e t . s t o r . r i s k . a t t . t e r r o r i s t e r . f ö r s ö k e r . a n f a l l a . , . s ä g e r . d e n . a m e r i k a n s k a . j u s t i t i e m i n i s t e r n 
+. D e s s u t o m . b e h ö v e r . f o l k . i . B a g d a d . h j ä l p . m e d . m e d i c i n e r . , . m a t . , . v a t t e n . o c h . m y c k e t . a n n a t 
+. D e n . s v e n s k a . s t a t e n . g a v . J o y . R a h m a n . å t t a . m i l j o n e r . k r o n o r 
+. D e t . ä r . m ä n n i s k o r . f r å n . a n d r a . l ä n d e r . s o m . i n t e . h a r . t i l l s t å n d . a t t . b o . i . U S A 
+. I s r a e l e r n a . h a r . f o r t s a t t . a t t . b y g g a . e g n a . h u s . p å . p a l e s t i n i e r n a s . o m r å d e n 
+. N u . v a r n a r . U S A . a l l a . a m e r i k a n e r . s o m . ä r . i . N o r d e n . o c h . i . d e . b a l t i s k a . l ä n d e r n a 
+. E x a k t . h u r . m å n g a . s o m . d ö d a d e s . o c h . s k a d a d e s . ä r . s v å r t . a t t . s ä g a 
+. S h e k a r a b i . v a r . m e d . i . s t y r e l s e n . i . U p p s a l a . o c h . m å s t e . a l l t s å . h a . k ä n t . t i l l . f u s k e t . , . s ä g e r . G u s t a v s s o n 
+. M e n . U S A . s t ö d e r . i n t e . I s r a e l s . h u s r i v n i n g a r 
+. S v e r i g e . v a n n . b r o n s - m a t c h e n . m o t . B u l g a r i e n . g a n s k a . l ä t t 
+. F ö r . o s s . s v e n s k a r . ä r . d e t . n a t u r l i g t v i s . e x t r a . s p ä n n a n d e . m e d . E n g l a n d 
+. E x p e r t e r . b å d e . i . U k r a i n a . o c h . i . u t l a n d e t . s ä g e r . a t t . r e g e r i n g e n . f u s k a d e . i . v a l e t 
+. K e n n y . B r ä c k . v a r . n ä r a . a t t . d ö 
+. P a t r i k . v a r . s å . g l a d . , . l y c k l i g . o c h . l ä t t a d 
+. – . V å r a . m i s s i l e r . b r y t e r . i n t e . m o t . F N s . r e g l e r . , . s a d e . S a d d a m 
+. M e n . a l l a . a r t i s t e r . g i l l a r . i n t e . G r a m m i s g a l a n 
+. I n g e n . b l e v . s ä r s k i l t . ö v e r r a s k a d 
+. D ä r f ö r . k o m m e r . a m e r i k a n e r n a . f o r t s ä t t a . a t t . h a . m a k t . i . l a n d e t 
+. D e n . a n d r a . e x p e r t e n . s ä g e r . a t t . M i j a i l o v i c . ä r . p s y k i s k t . s j u k . o c h . s k a . h a . v å r d . i . s t ä l l e t 
+. D e t . v a r . d ö d s t y s t . i . i s h a l l e n . i . G ä v l e . n ä r . P e j a . L i n d h o l m . s m e k t e . i v ä g . s t e n e n 
+. D ä r f ö r . v i l l . r e g e r i n g e n . f o r t s ä t t a . a t t . s p a r a . p e n g a r . p å . f ö r s v a r e t 
+. M e n . S v e r i g e . s p e l a d e . i n t e . s o m . n å g o t . m ä s t a r l a g 
+. P o l i s e r n a . s o m . m ö r d a d e . Z o r a n . D j i n d j i c . h a r . s a m a r b e t a t . m e d . e n . s t o r . l i g a . m e d . b r o t t s l i n g a r 
+. D e . t a n k f a r t y g . s o m . b y g g s . i . d a g . ä r . s ä k r a r e 
+. I . t o r s d a g s . b r a n n . t i n g s r ä t t e n s . h u s . i . L y c k s e l e . n e d 
+. R e g e l n . o m . n i o . t i m m a r . s k a . g ä l l a . a l l a . d j u r 
+. M å n g a . t u s e n . m ä n n i s k o r . h a r . f l y t t . f r å n . l a n d s b y g d e n . i n . t i l l . M o n r o v i a 
+. V i n - T r ä g å r d h . h a r . b e t a l a t . m e s t . p e n g a r 
+. M e n . m å n g a . s ä g e r . a t t . R o b e r t . M u g a b e . o c h . h a n s . p a r t i . f u s k a d e . i . v a l e t 
+. L a n d s l a g e t s . t r ä n a r e . L a s s e . L a g e r b ä c k . ä r . v ä l d i g t . g l a d . f ö r . a t t . H e n r i k . L a r s s o n . s t ä l l e r . u p p . i . l a g e t . i g e n 
+. M e n . d e t . ä r . i n t e . b a r a . d ä r f ö r . U S A s . l e d a r e . ä r . a r g a 
+. I . H o n g k o n g . ä r . e t t . h e l t . h y r e s h u s . i s o l e r a t 
+. P o j k e n s . k o m p i s . d r o g . g e n a s t . i . n ö d b r o m s e n 
+. H e r r s t a f e t t e n . i . s k i d - V M . b l e v . e t t . f i a s k o . f ö r . S v e r i g e 
+. D e . s e n a s t e . å r e n . h a r . S e r b i e n . o c h . M o n t e n e g r o . s a m a r b e t a t 
+. U S A . v i l l . a t t . N o r d k o r e a . h å l l e r . s i n a . l ö f t e n . o c h . l å t e r . b l i . a t t . t i l l v e r k a . k ä r n v a p e n 
+. K v i n n a n . s a d e . a t t . d e t . ä r . p a s t o r n . s o m . h a r . s t y r t . h e n n e 
+. V ä l j a r n a . r ö s t a d e . p å . v i l k a . p o l i t i k e r . s o m . s k a . s t y r a . l a n d e t 
+. I . t o r s d a g s . v a r . r ä t t e g å n g e n . k l a r 
+. D e t . ä r . t r e d j e . å r e t . i . r a d . s o m . L i d s t r ö m . v i n n e r . d e t . p r i s e t 
+. F ö r r a . å r e t . a n f ö l l . t e r r o r i s t e r . e t t . b o s t a d s o m r å d e . f ö r . u t l ä n n i n g a r . i . h u v u d s t a d e n . R i y a d 
+. G e o r g i e n . v a r . f ö r u t . e n . d e l . a v . S o v j e t u n i o n e n 
+. F ö r . n å g r a . d a g a r . s e d a n . f l y t t a d e s . n å g r a . f å n g a r . f r å n . f ä n g e l s e t . i . M a r i e f r e d 
+. T o l v . a v . d e l s t a t e r n a . h a r . i n t e . d ö d s - s t r a f f 
+. I . a l l a . f a l l . a v . M a l m ö s . k o m m u n a l a . b o s t a d s b o l a g . , . M K B 
+. K u r t . H e l l s t r ö m . f i c k . n ä s t a n . 2 4 . m i l j o n e r . k r o n o r . i . l ö n 
+. N u . s k a . e n . s ä r s k i l d . g r u p p . p o l i s e r . u n d e r s ö k a . v a d . s o m . h ä n d e . o c h . o m . p o l i s m a n n e n . g j o r d e . f e l . s o m . s k ö t . 2 2 - å r i n g e n 
+. P å . s ö n d a g . s p e l a s . d e n . a n d r a . m a t c h e n 
+. D e . m å r . s å . d å l i g t . a t t . d e . v i l l . s k a d a . s i g . s j ä l v a . e l l e r . t a . l i v e t . a v . s i g 
+. N u . h a r . h o n . s t o r . c h a n s . a t t . v i n n a . h e l a . s t o r s l a l o m - c u p e n 
+. O m . S v e r i g e . , . N o r g e . e l l e r . F i n l a n d . v i l l . l e t a . p å . e n . s p e c i e l l . p l a t s . s å . k o m m e r . t h a i l ä n d s k a . r ä d d n i n g s a r b e t a r e . a t t . l e t a . p å . d e t . s t ä l l e t 
+. S v e r i g e . g j o r d e . f e m . m å l . i . r a d . o c h . v a n n . m a t c h e n . m e d . 3 0 - 2 3 
+. V a k t e n . s k u l l e . h å l l a . o r d n i n g . p å . r e s t a u r a n g e n . , . i n t e . p å . g a t a n 
+. I . s t ä l l e t . l ä s t e . j u r i s t e r n a . u p p . v a d . h a n . s a d e . i . d e n . f ö r r a . r ä t t e g å n g e n 
+. T i n g s r ä t t e n . t y c k e r . a t t . p o l i s e r n a . g j o r d e . a l l v a r l i g a . t j ä n s t e f e l 
+. T å g e t . k ö r d e . p å . p o j k a r n a . s o m . s e n a r e . d o g . p å . s j u k h u s e t 
+. L a g e n . s ä g e r . a t t . d e t . ä r . f ö r b j u d e t . f ö r . s v e n s k a r n a . a t t . k ö p a . a l k o h o l . p å . i n t e r n e t 
+. I . d a g . , . m å n d a g . , . m ö t e r . S v e r i g e . A r g e n t i n a 
+. K v i n n a n . h a r . a r b e t a t . s o m . p s y k o l o g . p å . f l e r a . f ä n g e l s e r 
+. D e t . g i c k . j u 
+. L a g e t . v e r k a r . r u s k i g t . b r a 
+. T u r n i n g . T o r s o . k o m m e r . a t t . k o s t a . f l e r a . h u n d r a . m i l j o n e r . k r o n o r . m e r . ä n . d e t . v a r . t ä n k t 
+. I d a - T h e r e s . K a r l s s o n . v a r . n o g . d e n . s t ö r s t a . ö v e r r a s k n i n g e n 
+. M i n s t . 1 0 0 . m ä n n i s k o r . s k a d a d e s 
+. R ö s t e r n a . s a d e . å t . h o n o m . a t t . a n f a l l a . A n n a . L i n d h 
+. I n g e n . u t o m . s p e l a r n a . i . S v e r i g e s . l a g 
+. E n . a v . m ä n n e n . s å g a d e . s ö n d e r . e t t . s t ä n g s e l . s å . a t t . f å n g a r n a . k u n d e . k o m m a . u t 
+. D e . h a r . i n t e . h i t t a t . n å g r a . f ö r b j u d n a . v a p e n 
+. M a l i n . M o s t r ö m . s l o g . i n l ä g g e t . o c h . V i c t o r i a . k o m . r u s a n d e . o c h . n i c k a d e . o t a g b a r t . i . m å l 
+. M i l i t ä r e n . b l e v . p å . e n . g å n g . a v s t ä n g d . f r å n . s i t t . a r b e t e 
+. D e t . s v e n s k a . f a c k e t . k r ä v e r . a t t . d e t . l e t t i s k a . f ö r e t a g e t . s k a . s k i v a . a v t a l . i . S v e r i g e . o c h . g e . s i n a . a r b e t a r e . d e n . l ö n e n 
+. I . d a g . ä r . d e t . m i l i t ä r e r n a . s o m . h a r . m a k t e n . i . l a n d e t 
+. O m . k o n t o r e t . h a d e . v a r i t . b ä t t r e . s k y d d a t . h a d e . m å n g a . a v . d e m . k l a r a t . s i g . b ä t t r e . , . s ä g e r . F N - r a p p o r t e n 
+. I . v å r . s k a . r i k s d a g e n . b e s t ä m m a . h u r . d e n . n y a . g y m n a s i e s k o l a n . s k a . s e . u t 
+. V i . ä r . c h o c k a d e . a l l i h o p . , . s ä g e r . v ä n n e n . o c h . b r o t t n i n g s l e d a r e n . F r a n k . S t e e n . t i l l . t i d n i n g e n . A f t o n b l a d e t 
+. E x p e r t e r . s k a . u n d e r s ö k a . h u r . o l y c k a n . g i c k . t i l l 
+. I . h e l g e n . f ö r s t ö r d e s . e n . v i k t i g . v a t t e n l e d n i n g . i . h u v u d s t a d e n . B a g d a d 
+. E n . k v i n n a . i . M a l m ö . t a p p a d e . s i n . p l å n b o k 
+. H V . 7 1 . h a r . v u n n i t . t v å 
+. D e t . h ä n d e . u t a n f ö r . e t t . h o t e l l . i . h u v u d s t a d e n . J a k a r t a 
+. I . m e r . ä n . t v å . v e c k o r . v a r . h a n . b o r t a . i n n a n . k i d n a p p a r n a . s l ä p p t e . h o n o m 
+. D e t . f o r t s ä t t e r . a t t . v a r a . k r i g . m e l l a n . I s r a e l . o c h . p a l e s t i n i e r n a 
+. M i l i t ä r e r n a . t o g . m ä n n i s k o r . s o m . f å n g a r . o c h . t o r t e r a d e . d e m 
+. H a t e t . m o t . U S A . i . I r a k . h a r . b l i v i t . s t ö r r e 
+. M e n . b r o n . h a r . ö p p n a t s . f ö r . t r a f i k . i g e n 
+. S a d d a m . H u s s e i n . ä r . a n k l a g a d . f ö r . b r o t t . m o t . m ä n s k l i g h e t e n . o c h . f ö r . a t t . h a . s t a r t a t . k r i g . m o t . l a n d e t . K u w a i t . 1 9 9 0 
+. K e n n y . v a r . m y c k e t . n ä r a . a t t . d ö . i . d e n . v å l d s a m m a . k r a s c h e n 
+. P o l i s e r n a . g r e p . t i l l . s i s t . o m k r i n g . 8 0 . u n g d o m a r 
+. P å . 2 0 0 . m e t e r . b r ö s t s i m . k o m . S a r a . L a r s s o n . t r e a 
+. P å . t i s d a g . m ö t e r . S v e r i g e . K r o a t i e n 
+. N u . ä r . d e t . i n t e . l i k a . v i k t i g t . a t t . b o m b a . d e . i r a k i s k a . m i l i t ä r e r n a 
+. H a n . m å s t e . j o b b a . t v å h u n d r a . t i m m a r . m e d . n å g o t . s o m . d o m s t o l e n . b e s t ä m m e r 
+. D e . h a n d l a d e . b l a n d . a n n a t . o m . a t t . k o m m u n e r n a . s k a . f å . m e r . p e n g a r 
+. I . d a g . , . d e n . 8 . m a r s . , . ä r . d e t . d e n . i n t e r n a t i o n e l l a . k v i n n o d a g e n 
+. D e t . v a r . h a n . s o m . a v s l ö j a d e . f u s k e t 
+. N u . s k a . h a n . s l u t a 
+. F r ö l u n d a . f r å n . G ö t e b o r g . ä r . s v e n s k a . m ä s t a r e . i . i s h o c k e y 
+. D å . k a n . h a n . d ö m a s . f ö r . b r o t t . o c h . f ö r l o r a . j o b b e t 
+. N ä r . l a g e n . m ö t t e s . i . S t o c k h o l m . p å . o n s d a g s k v ä l l e n . s l u t a d e . m a t c h e n . 2 - 2 
+. M i n s t . s e x t o n . m ä n n i s k o r . d ö d a d e s . o c h . f y r t i o . s k a d a d e s 
+. F r å n . b ö r j a n . v a r . d e t . b a r a . f å g l a r . i . A s i e n . s o m . h a d e . v i r u s e t 
+. J u s t . n u . ä r . d e t . n ä r a . k r i g . i . H a i t i 
+. U S A . h a r . o c k s å . b o m b a t . e t t . h u s . i . e t t . o m r å d e . d ä r . m å n g a . i r a k i s k a . l e d a r e . o c h . m i l i t ä r e r . f i n n s 
+. H V 7 1 . v a n n . k v a r t s f i n a l s p e l e t . m o t . M o d o 
+. H a n . s ä g e r . a t t . o m . s o l d a t e r n a . ä r . s k y l d i g a . s å . f i n n s . d e t . i n g a . u r s ä k t e r 
+. D e t . s e r . t u n g t . u t . f ö r . D j u r g å r d e n . o c h . S ö d e r t ä l j e . i . s l u t s p e l e t . i . i s h o c k e y 
+. P å . t o r s d a g e n . v a r . d e t . m a t c h . m o t . B r a s i l i e n 
+. H u n d r a t u s e n t a l s . m ä n n i s k o r . b l e v . u t a n . s t r ö m 
+. I . K a m b o d j a . k a n . t v å . p e r s o n e r . v a r a . s m i t t a d e 
+. M e n . S t e f a n . v a r . ä n d å . i n t e . r i k t i g t . n ö j d 
+. D e . b r ä n d e . n e r . t i d n i n g e n . T h e . D a y s . h u s . i . s t a d e n . K a d u n a 
+. L a g e n . s p e l a d e . l i k a . b r a . o c h . e f t e r . f u l l . t i d . v a r . s t ä l l n i n g e n . 1 - 1 
+. D e . t r e . s p e l a r n a . ä r . K r i s t i a n . H u s e l i u s . , . A n d r e a s . L i l j a . o c h . H e n r i k . T a l l i n d e r 
+. D e n . s k a p a r . f l e r a . j o b b . , . s ä g e r . h a n 
+. D e t . h a r . j u s t . b l i v i t . k l a r t . v i l k a . f i l m e r . s o m . k a n . v i n n a . e n . a m e r i k a n s k . O s c a r s . , . s o m . ä r . d e t . m e s t . b e r ö m d a . f i l m p r i s e t . i . v ä r l d e n 
+. F ö r s v a r e t . h a r . s k i c k a t . h u n d r a . s o l d a t e r . t i l l . S m å l a n d . f ö r . a t t . h j ä l p a . t i l l 
+. A n n a r s . s k u l l e . i n t e . o m r ä s t n i n g e n . r ä k n a s 
+. S y d a f r i k a s . p r e s i d e n t . t r o d d e . i n t e . s å . m y c k e t . p å . G 8 - l ä n d e r n a s . p l a n e r 
+. M å l e t . m e d . m ö t e t . ä r . a t t . f o l k . f r å n . o l i k a . d e l a r . a v . v ä r l d e n . s k a . f å . t r ä f f a s . o c h . d i s k u t e r a 
+. J a g . h a d e . i n g e n . a n i n g . o m . a t t . d e t . s k u l l e . b l i . s å . h ä r . , . s a d e . K a r i n . M a t t s s o n . t i l l . t i d n i n g e n . D a g e n s . N y h e t e r 
+. S v e r i g e s . d a m e r . s p e l a r . m o t . I t a l i e n . i . k v a l e t . t i l l . f o t b o l l s - E M 
+. S p i o n e r n a . t o g . r e d a . p å . v i l k a . f l y k t i n g a r . s o m . k o m . t i l l . S v e r i g e . f r å n . I r a k . o c h . v a d . d e . t y c k t e . o m . I r a k s . l e d a r e 
+. R ä d d n i n g s t j ä n s t e n . j o b b a d e . h e l a . n a t t e n . m e d . a t t . d ä m m a . u p p . d a m m e n . m e d . s a n d s ä c k a r 
+. L e n n a r t . R a m m e r . ä r . o r o l i g . f ö r . a t t . ä n n u . f l e r . m ä n n i s k o r . k a n . d ö . i . r ö j n i n g s a r b e t e t . e f t e r . s t o r m e n 
+. D e t . v a r . 1 5 . å r . s e d a n . d e . b å d a . m o r d e n . h ä n d e 
+. D e t . ä r . l a g l ö s t . p å . g a t o r n a 
+. D e . a m e r i k a n s k a . s o l d a t e r n a . k o m m e r . a t t . s t a n n a . k v a r . i . I r a k . i . f l e r a . å r . , . t r o r . e x p e r t e r n a 
+. I . s ö n d a g s . r å k a d e . r a c e r f ö r a r e n . K e n n y . B r ä c k . u t . f ö r . e n . s v å r . o l y c k a 
+. S t o r b r i t a n n i e n s . r e g e r i n g . s t o p p a r . f o l k o m r ö s t n i n g e n . o m . E U s . n y a . g r u n d l a g 
+. D ä r f ö r . b ö r . h o n . i n t e . f å . b o s t a d . h o s . M K B . , . s t o d . d e t . p å . l i s t a n 
+. M e n . I s l a n d . h a r . f l e r a . m y c k e t . b r a . f o t b o l l s s p e l a r e . o c h . p å . h e m m a p l a n . k a n . l a g e t . b l i . f a r l i g t 
+. F ö r . a t t . d e . r e s e n ä r e r n a . s k a . f å . h j ä l p . s a m a r b e t a r . L u f t f a r t s v e r k e t . m e d . s j u k v å r d e n . o c h . S v e n s k a . k y r k a n 
+. P å . S e r g e l s . t o r g . i . S t o c k h o l m . o r d n a s . e n . d e m o n s t r a t i o n . t i l l . s t ö d . f ö r . D a w i t . I s a a k 
+. C a l l e . J o n s s o n . m å s t e . å k a . t i l l b a k a . t i l l . G r e k l a n d . f ö r . a t t . v a r a . m e d . p å . r ä t t e g å n g e n 
+. U S A . s ä g e r . a t t . s v e n s k e n . ä r . m i s s t ä n k t . t e r r o r i s t 
+. E U - l ä n d e r n a . m å s t e . s a m a r b e t a . f ö r . a t t . s t o p p a . t e r r o r i s t e r . , . s ä g e r . p o l i t i k e r n a 
+. O m . d o m s t o l e n . t r o r . p å . d e t . s å . k a n . M i j a l i v i c . d ö m a s . t i l l . d r å p . o c h . f å . e t t . m i l d a r e . s t a f f 
+. M e n . d å . m å s t e . p a r t i e r n a . s a m a r b e t a . b ä t t r e . , . s ä g e r . L a r s . L e i j o n b o r g . t i l l . S v e n s k a . D a g b l a d e t 
+. F a c k f ö r e n i n g e n . B y g g n a d s . f ö r s ö k e r . s t o p p a . b y g g e t 
+. P u c k e n . h a m n a d e . i n t e . i . m å l 
+. H a n . s ä g e r . a t t . I r a k . t y d l i g t . m å s t e . v i s a . a t t . d e t . i n t e . f i n n s . o l a g l i g a . v a p e n 
+. M å n g a . t r o d d e . n o g . a t t . M a s a r n a . s k u l l e . v a r a . f ö r . s t a r k a . p å . h e m m a p l a n 
+. S a n n a . o c h . J e n n y . K a l l u r . s p r i n g e r . 1 0 0 . m e t e r . h ä c k 
+. S o l d a t e r n a . h a d e . i n g a . v a p e n . o c h . v a n l i g a . k l ä d e r 
+. Å k l a g a r e n . h a r . l y s s n a t . p å . e n . f j o r t o n å r i g . p o j k e 
+. R o b i n . S ö d e r l i n g . ö v e r r a s k a d e . a l l a . i . t ä v l i n g e n . S t o c k h o l m . O p e n 
+. D e . k a s t a d e . s t e n . m o t . e n . g r u p p . s p a n s k a . s o l d a t e r 
+. V ä n s t e r p a r t i e t s . l e d a r e . L a r s . O h l y . h a r . f å t t . d e t . j o b b i g t 
+. D ä r . m å s t e . f a r t y g e t . r e p a r e r a s 
+. A n j a . P ä r s o n . l y c k a d e s . o c k s å . b r a . i . h e l g e n 
+. D e . a l l r a . f l e s t a . s l o v e n e r . v i l l . g ä r n a . b l i . m e d 
+. N u . b l i r . k a m p e n . h å r d a r e . f ö r . a t t . s t o p p a . f i l m e r . , . m u s i k . o c h . s p e l . p å . i n t e r n e t 
+. M ä n n i s k o r . h a r . i n g e t . a t t . ä t a 
+. T r e . a v . d e . f e m . t e s t e r n a . k a n . v i s a . a t t . m ä n n i s k o r . h a r . b o r e l i a . f a s t . d e . e g e n t l i g e n . ä r . f r i s k a 
+. R y s k a . s o l d a t e r . h a r . k r i g a t . m o t . g r u p p e r . s o m . v i l l . a t t . T j e t j e n i e n . s k a . b l i . e t t . e g e t . l a n d 
+. N u . ä r . d e t . t r e . t i l l . s o m . h a r . c h a n s . a t t . b l i . l i k a . s t o r a 
+. N u . s k a . r i k s d a g e n . r ö s t a . o m . r e g e r i n g e n s . f ö r s l a g 
+. D e . h a d e . l ä n g e . f ö r s ö k t . s a m s a s . o m . n y a . g r u n d l a g a r . f ö r . E U 
+. A n d r a . n y a . r e g l e r . s o m . k o m m e r . h a n d l a r . o m . u t l ä n d s k a . s p e l a r e . s o m . i n t e . k o m m e r . f r å n . e t t . l a n d . i n o m . E u r o p e i s k a . u n i o n e n . , . E U 
+. D e t . s k a . b l i . f o l k o m r ö s t n i n g 
+. A m n e s t y . I n t e r n a t i o n a l . a r b e t a r . f ö r . a t t . m ä n n i s k o r . s k a . b e h a n d l a s . r ä t t v i s t 
+. D e t . ä r . S m i t t s k y d d s - i n s t i t u t e t . s o m . h a r . u n d e r s ö k t . p r o v e r . f r å n . o l i k a . k y l t o r n 
+. – . V i . v ä d j a r . t i l l . e r . , . s n ä l l a . s l ä p p . F a b i a n . f r i . e l l e r . g e . o s s . i n f o r m a t i o n . o m . v a d . v i . s k a . g ö r a . f ö r . a t t . f å . h o n o m . t i l l b a k a . t i l l . v å r . f a m i l j . , . s a d e . p a p p a n . p å . v i d e o b a n d e t 
+. H a n . h o p p a r . 2 , 3 0 . e l l e r . m e r . i . n ä s t a n . v a r e n d a . t ä v l i n g 
+. M e n . i . S w e d e n . H o c k e y . G a m e s . i . f e b r u a r i . f å r . h a n . i n t e . v a r a . m e d . i . b å s e t 
+. H a n . v i l l e . o c k s å . t v i n g a . B e r l u s c o n i . a t t . s l u t a . s o m . s t a t s m i n i s t e r 
+. N u . s k a . a l l a . i . g r u p p e n . f l y g a . h e m . t i l l . S v e r i g e 
+. N ä s t a . m a t c h . s p e l a s . i . S c a n d i n a v i u m . i . G ö t e b o r g . p å . f r e d a g 
+. E l f r i e d e . J e l i n e k . k o m m e r . f r å n . Ö s t e r r i k e . o c h . ä r . 5 7 . å r . g a m m a l 
+. D e t . g i c k . s o m . d e t . b r u k a r . g å . i . d e . m a t c h e r n a 
+. F y r a . h u n d r a . m ä n n i s k o r . h a r . m ö r d a t s . p å . t r e . v e c k o r 
+. N u . r i s k e r a r . d e . a t t . m i s s a . O S . p å . g r u n d . a v . f u s k . m e d . d o p n i n g 
+. D a m e r n a . t ä v l a d e . i . 1 5 . k i l o m e t e r 
+. D e t . v a r . s t r a f f . f ö r . a t t . d e . h a d e . g l ö m t . n å g r a . s m å s a k e r 
+. P å . s ö n d a g e n . v a r . d e t . s l u t . m e d . o t u r e n 
+. I r a k . h a r . ä n n u . i n t e . f å t t . n å g o n . n y . r e g e r i n g 
+. S t o r b r i t a n n i e n . s t ö d j e r . o f t a . U S A 
+. M e n . v i s s t . h a r . T r e . K r o n o r . e n . b r a . c h a n s . a t t . s l å . b å d e . t j e c k e r . o c h . k a n a d e n s a r e 
+. S v e r i g e . s p e l a d e . b r a . o c h . s p e l a r n a . s a t t e . s i n a . s k o t t 
+. G i u l i a n a . S g r e n a . s k a d a d e s 
+. T r ä d e n . h a r . a n v ä n t s . t i l l . b r ä n s l e 
+. D e . h a r . f u n n i t s . m e d . p å . l i s t a n . u t a n . a t t . v e t a . o m . d e t 
+. F l e r . ä n . s e x t i o . m ä n n i s k o r . d o g . i . l a n d e t . A f g h a n i s t a n . p å . o n s d a g e n 
+. H o n . ä r . e n . a v . d e . n y a . u n g a . s p e l a r n a 
+. S p ä n n i n g . , . f i n t . s p e l . o c h . s n y g g a . m å l 
+. M e n . n ä r . o l y c k a n . h ä n d e . k ö r d e . t å g e t . i . f u l l . f a r t . , . 1 6 0 . k i l o m e t e r . i . t i m m a n 
+. I . n o r d l i g a s t e . S v e r i g e . g å r . s o l e n . i n t e . a l l s . n e d 
+. M å n g a . g l a d a . v i n n a r e . f i c k . t a c k a . o c h . v i n k a . t i l l . p u b l i k e n 
+. I . d a g . , . t i s d a g . , . ä r . d e n . m ö r k a s t e . d a g e n . p å . h e l a . å r e t . i . n o r r a . d e l e n . a v . v ä r l d e n 
+. P å . t i s d a g e n . b e r ä t t a d e . t i d n i n g a r . i . A r g e n t i n a . a t t . d e t . b l i r . e n . r ä t t e g å n g . m o t . m i l i t ä r e r n a . s o m . m i s s t ä n k s . f ö r . a t t . h a . d ö d a t . D a g m a r . H a g e l i n 
+. F ä r r e . p o l i s e r . o c h . d e m o n s t r a n t e r . b l i r . s k a d a d e . s a m t i d i g t . s o m . p o l i s e n . k a n . g r i p a . f l e r . p e r s o n e r . , . s ä g e r . L a r s . E n g s t r ö m . t i l l . T T 
+. P l ö t s l i g t . d ö k . e t t . g ä n g . u n g a . i n v a n d r a r e . u p p . s ä g e r . e t t . v i t t n e 
+. T y s k l a n d . , . F i n l a n d . o c h . D a n m a r k . h a r . g o d k ä n t . E U - f ö r s l a g e t 
+. K v i n n a n . s o m . d ö d a d e . h e n n e . h u s t r u . d ö m d e s . f ö r . m o r d 
+. B a r a . p å . S u m a t r a . d o g . f y r t i o . t u s e n . m ä n n i s k o r 
+. D e t . s o c i a l d e m o k r a t i s k a . u n g d o m s f ö r b u n d e t . , . S S U . , . h a r . p o l i s a n m ä l t s . f ö r . f u s k . m e d . m e d l e m s a v g i f t e r 
+. D å . ä r . d a g e n . o c h . n a t t e n . l i k a . l å n g a . o c h . l u f t e n . b r u k a r . v a r a . v å r v a r m 
+. G r ä l e t . f o r t s ä t t e r 
+. C o l u m b i a . h a d e . v a r i t . p å . I S S . o c h . v a r . p å . v ä g . t i l l b a k a . t i l l . j o r d e n 
+. B ä s t e . m i t t f ä l t a r e n . K i m . K ä l l s t r ö m . ä r . a v s t ä n g d . i . n ä s t a . m a t c h 
+. D e t . h ä r . h ä n d e . n ä r a . g r ä n s e n . t i l l . o m r å d e t . T j e t j e n i e n 
+. B e n t e . S k a r i . v a n n . o c h . t o g . s i t t . a n d r a . g u l d . i . V M 
+. S u d a n s . p o l i t i k e r . m å s t e . s n a b b t . h i t t a . p å . e t t . s ä t t . a t t . f å . s t o p p . p å . k r i g e t 
+. E n . a v . s a k e r n a . s o m . g r u p p e n . k o m m e r . a t t . p r a t a . o m . ä r . h u r . v ä r l d e n s . t e r r o r i s t e r . s k a . s t o p p a s 
+. D e n . h ä r . v e c k a n . b l i r . h o n . p r e m i ä r m i n i s t e r 
+. Å k l a g a r e n . K r i s t e r . v a n . d e r . K w a s t . h a r . b e s t ä m t . a t t . d e . t v å . s k a . a n h å l l a s 
+. P r e s t i g e . v a r . l a s t a d . m e d . o l j a 
+. H a n . h a d e . l ä m n a t . d o p n i n g s p r o v . e f t e r . e n . t ä v l i n g . i . m i t t e n . a v . j a n u a r i 
+. D e . f l e s t a . s v e n s k a r n a . d o g . i . T h a i l a n d 
+. P å . f r e d a g s m o r g o n e n . k ö r d e . ä n n u . f l e r . i s r a e l i s k a . s t r i d s v a g n a r . i n . i . G a z a 
+. K a n s k e . o l j a . o c k s å . k o m m e r . t i l l . g r a n n l ä n d e r n a . P o r t u g a l . o c h . F r a n k r i k e 
+. T ä v l i n g a r n a . ä r . i . A t e n . p r e c i s . s o m . O S 
+. D e t . v a r . d e n . t r e d j e . s t o r a . a t t a c k e n . m o t . i r a k i s k a . s ä k e r h e t s - a r b e t a r e . i . s a m m a . v e c k a 
+. D e t . ä r . e t t . g r y m t . s ä t t . a t t . j a g a . r ä v . t y c k e r . m å n g a 
+. – . H a n d l a r e . k ä n n e r . o f t a . i g e n . s n a t t a r e 
+. V i c t o r i a . f i c k . d i a m a n t b o l l e n . o c h . O l o f . f i c k . g u l d b o l l e n 
+. S t a n l e y . C u p . ä r . d e . n o r d a m e r i k a n s k a . m ä s t e r s k a p e n 
+. M å n g a . a v . d e m . v a r . b a r n 
+. U m e å . v a n n . l ä t t 
+. S k i c k a . e t t . m a i l . t i l l . 8 . S I D O R . o c h . b e r ä t t a 
+. H o n . s a d e . o c k s å . a t t . h o n . g i l l a r . s v e n s k . f o t b o l l 
+. F ö r s t . v ä g r a d e . B e r l u s c o n i . a t t . b e . o m . u r s ä k t 
+. D e . ä r . f r i s k a . o c h . s ä g e r . a t t . d e . h a r . b l i v i t . g a n s k a . b r a . b e h a n d l a d e . a v . s i n a . f å n g v a k t a r e 
+. E U - k o m m i s s i o n e n . ä r . u n g e f ä r . s o m . E U s . r e g e r i n g 
+. H a n . h a r . v i l a t . i . t v å . m å n a d e r . s e d a n . h a n . o p e r e r a d e . s i n . h ö f t 
+. V i s s a . t y c k e r . a t t . d e t . v a r . f e l . a t t . S a d d a m . H u s s e i n . f i c k . p r a t a . i . b r i t t i s k . T V 
+. E n l i g t . p o l i s e n . s k a d a d e s . t r e . p e r s o n e r . l ä t t . n ä r . d e t . b l e v . b r å k . v i d . d e m o n s t r a t i o n e r n a 
+. H o v r ä t t e n . a n s å g . a t t . h a n . v a r . p s y k i s k t . s j u k . o c h . d ö m d e . h o n o m . i . s t ä l l e t . t i l l . v å r d 
+. O m . F r ö l u n d a . v i n n e r . b l i r . l a g e t . s v e n s k a . m ä s t a r e . i . i s h o c k e y 
+. S w e d i s h . M a t c h . t y c k e r . a t t . d e t . ä r . o r ä t t v i s t . a t t . a n d r a . t o b a k s p r o d u k t e r . s o m . l i k n a r . s n u s e t . d e . t i l l v e r k a r . f å r . s ä l j a s . i . E U 
+. L i s a . M i s k o v s k y . f i c k . e n . g r a m m i s . f ö r . a t t . h o n . v a r . b ä s t a . k v i n n l i g a . p o p - a r t i s t 
+. D e t . h a r . v a r i t . e n . d e l . b r å k . k r i n g . E U - k o m m i s s i o n e n 
+. Ö r e b r o s . l e d a r e . k o m m e r . a t t . k l a g a . p å . b e s l u t e t 
+. I . K i n a . d o g . f l e r . ä n . t r e h u n d r a . m ä n n i s k o r . a v . s a r s 
+. F ö r r a . v ä n s t e r l e d a r e n . G u d r u n . S c h y m a n . h a r . s t a r t a t . F e m i n i s t i s k t . I n i t i a t i v . , . F I 
+. P å . l å n g f r e d a g e n . , . p å s k a f t o n . , . p å s k d a g e n . o c h . a n n a n d a g . p å s k . b l i r . d e t . i n g e n . t i d n i n g . p å . 8 . S I D O R s . h e m s i d a 
+. – . D e t . b o r d e . v a r a . l i k a . f ö r b j u d e t . s o m . v i n - . o c h . s p r i t - f ö r s ä l j n i n g . p å . s k o l o r . , . s k r i v e r . S v e n s s o n 
+. P å . o n s d a g . s p e l a r . h a n . i . l a n d s l a g e t . n ä r . S v e r i g e . m ö t e r . T u n i s i e n 
+. S p e l a r n a . ä r . t e k n i s k t . d u k t i g a . o c h . s p e l a r . e t t . s p e l . s o m . ä r . r o l i g t . f ö r . p u b l i k e n . a t t . t i t t a . p å 
+. R o l a n d . A n d e r s s o n . h a r . s p e l a t . f o t b o l l . b å d e . i . M a l m ö . F F . , . D j u r g å r d e n . o c h . i . l a n d s l a g e t 
+. U p p g i f t e r n a . o m . s j ä l v m o r d s - b o m b a r n a . k o m m e r . f r å n . d e t . k u r d i s k a . p a r t i e t . K D P 
+. S t r e j k e n . b ö r j a d e . k l o c k a n . f e m . i . m o r s e 
+. D e t . ä r . h e l t . o t r o l i g t . a t t . v i . ä r . i . V M - f i n a l . , . s a d e . S v e r i g e s . m a t c h - h j ä l t e . i . s e m i f i n a l e n . J o s e f i n e . Ö q v i s t 
+. D e . a n v ä n d e r . o c k s å . o f t a . v å l d . f ö r . a t t . f å . s o m . d e . v i l l 
+. D e n . k a n . g e . m ä n n i s k o r . e n . s v å r . o c h . f a r l i g . l u n g i n f l a m m a t i o n 
+. H o n . v i l l . i n t e . b l i . p r e m i ä r m i n i s t e r 
+. 8 5 2 . m ä n n i s k o r . d o g 
+. M e n . d e n . m e s t a . o l j a n . b l e v . k v a r . i . f a r t y g e t 
+. N ä r . j a g . ä r . i . b a c k e n . s å . ä r . j a g . r i k t i g t . s u g e n . p å . a t t . å k a 
+. I n g e n . a n n a n . h a r . e n . c h a n s . m o t . h e n n e . i . s k i d b a c k a r n a 
+. D e n . s i s t a . f i n a l e n . s p e l a d e s . p å . o n s d a g e n 
+. – . J a g . ä r . l y c k l i g 
+. P a t r i k . b l e v . t r e a . i . s t a v h o p p s t ä v l i n g e n . o c h . t o g . e n . b r o n s m e d a l j . i . V M 
+. 2 2 - å r i n g e . P o w e l l . s p r a n g . p å . 9 , 7 7 . s e k u n d e r 
+. S t e n a . N a u t i c a . s k a . n u . b l i . b o g s e r a d . t i l l . G ö t e b o r g . d ä r . b å t e n . s k a . l a g a s 
+. V a l - d e l t a g a n d e t . b l e v . r e k o r d l å g t 
+. P a l e s t i n s k a . g r u p p e r . m å s t e . s l u t a . b o m b a . o c h . d ö d a . i s r a e l e r 
+. D j u r g å r d e n . p r e s s a d e . m e n . l y c k a d e s . i n t e . g ö r a . n å g o t . m e r . m å l 
+. P o l i t i k e r n a . p å . m ö t e t . k o m . ö v e r e n s . o m . n å g r a . s a k e r 
+. D ä r . t a l a d e . b l a n d . a n d r a . k u n g e n . , . s t a t s m i n i s t e r n . o c h . ä r k e b i s k o p e n 
+. D e . k r ä v e r . a t t . E U - k o m m i s s i o n e n s . c h e f . B a r o s s o . v ä l j e r . e n . a n n a n . p e r s o n . t i l l . d e t . j o b b e t 
+. D e . t v å . m ä n n e n . t o g . m e d . s i g . e n . v a k t . s o m . f å n g e . o c h . k ö r d e . i v ä g . i . e n . b i l 
+. D e t . ä r . s t a t l i g a . m y n d i g h e t e r . s o m . f l y t t a s . f r å n . S t o c k h o l m 
+. J o h a n n e s . P a u l u s . b l e v . m y c k e t . p o p u l ä r 
+. U p p g i f t e r n a . k o m m e r . f r å n . t i d n i n g e n . M e t r o 
+. T y s k l a n d . o c h . F r a n k r i k e . b r y t e r . m o t . d e . r e g l e r n a 
+. J o s e f i n e . Ö q v i s t . , . B ä l i n g e . , . o c h . J o h a n . A r n e n g . i . D j u r g å r d e n . f i c k . d e . p r i s e r n a 
+. P å . t o r s d a g e n . k o m m e r . e n . s p a r p l a n . f r å n . v ä r l d e n s . s t ö r s t a . b i l f ö r e t a g . , . G M 
+. D ä r . b o r . b a r a . 6 0 0 . t u s e n . m ä n n i s k o r 
+. E U - k o m m i s s i o n e n s . f ö r s l a g . a t t . S v e r i g e s . a v g i f t . s ä n k s . m e d . e n . m i l j a r d . k r o n o r 
+. S t r a x . f ö r e . a t t . B a r z a n i . s k u l l e . b l i . p r e s i d e n t . s p r ä n g d e s . e n . b o m b 
+. A m i n a . L a w a l . s k u l l e . g r ä v a s . n e r . i . m a r k e n . t i l l . m i d j a n 
+. F l e r a . a v . d e m . ä r . b a r n . o c h . k v i n n o r 
+. V a r . f j ä r d e . r ö k a r e . p l a n e r a r . a t t . s l u t a . n ä r . d e . i n t e . l ä n g r e . f å r . r ö k a . p å . k r o g e n 
+. D e . s j u . a s t r o n a u t e r n a . h a d e . v a r i t . u p p e . i . r y m d e n . i . t v å . v e c k o r 
+. P o l i s e n . h a r . ä n n u . i n t e . f å t t . t a g . i . d e n . s o m . e l d a d e . u p p . b o c k e n 
+. M i j a i l o v i c s . a d v o k a t . , . M i k a e l . N i l s s o n . s ä g e r . a t t . M i j a i l o v i c . v i l l . f l y t t a s . t i l l . e t t . f ä n g e l s e . i . S e r b i e n 
+. I . f ö r r a . v e c k a n . s p r ä n g d e s . t v å . f l y g p l a n 
+. N u . s ä g e r . f l e r a . p o l i t i k e r . a t t . n å g o t . m å s t e . g ö r a s 
+. D e . s o m . d e m o n s t r e r a d e . v a r . s h i a m u s l i m e r 
+. H a n . ä r . m i s s t ä n k t . f ö r . m o r d e t 
+. T i l l . s i s t . k o m . s e g e r m å l e t 
+. P o l i t i k e r . o c h . l e d a r e . f r å n . 4 0 . l ä n d e r . k o m m e r . a t t . v a r a . d ä r 
+. F ö r r a . v e c k a n . d o g . 2 0 . m ä n n i s k o r . e f t e r . ö v e r s v ä m n i n g a r . i . A r g e n t i n a 
+. H e n r i k . L a r s s o n . o c h . K r i s t i n . B e n g t s s o n . v a r . d e . s t ö r s t a . v i n n a r n a . p å . f o t b o l l s g a l a n 
+. F ö r e t a g e t . ä g e r . S a a b f a b r i k e n . i . T r o l l h ä t t a n 
+. E n . u n g . m a n . f r å n . S y d k o r e a . b l e v . m ö r d a d . i . I r a k . p å . t i s d a g e n 
+. P å . o n s d a g e n . v a r . d e t . s t o r s l a l o m . i . S t . M o r i t z . i . S c h w e i z 
+. N ä s t a . h e l g . b ö r j a r . i s h o c k e y - V M 
+. R y s s l a n d . k o m m e r . a t t . b l i . e n . a v . d e . s t o r a . f a v o r i t e r n a . i . V M 
+. R y s s a r n a . ä r . i . s t o r f o r m 
+. M e n . h u s . s o m . h a r . v a t t e n . r u n t . s i g . k a n . b l i . f ö r s t ö r d a 
+. E n . a v . f å n g a r n a . ä r . d ö m t . t i l l . l i v s t i d s . f ä n g e l s e . f ö r . m o r d 
+. M i c h a i l . S a a k a s j v i l i . v a n n . p r e s i d e n t v a l e t . i . l a n d e t . G e o r g i e n 
+. D e t . v a r . t v å . å r . s e d a n . V a n k y . v a n n . e n . v ä r l d s c u p - s e g e r 
+. P o l i s e n . t r o r . a t t . d e . h a d e . b o m b e n . m e d . s i g 
+. V i d . t r e t i d e n . k o m . l a r m e t . t i l l . p o l i s e n 
+. T y s k l a n d . v a r . d e t . k l a r t . b ä s t a . l a g e t . o c h . v a n n . g u l d 
+. D e t . v a r . h e n n e s . t r e d j e . E M - g u l d 
+. D e t . h ä r . h a r . j a g . k ä m p a t . f ö r . i . 2 7 . å r . , . s ä g e r . R a g n a r . H a g e l i n 
+. A n j a . P ä r s o n . j u b l a d e . a v . l y c k a 
+. P l ö t s l i g t . ö p p n a d e s . e n . t å g d ö r r . o c h . p o j k e n . f ö l l . a v . t å g e t 
+. D e t . b l i r . f l e r . s t o r m a r . o c h . o v ä d e r . s o m . d ö d a r . m ä n n i s k o r 
+. S v e r i g e . v a n n . k v a l - m a t c h e n . t i l l . E M . m e d . 5 - 0 . i . l ö r d a g s 
+. L ä n d e r n a . i . F ö r e n t a . N a t i o n e r n a . , . F N . , . g ö r . n u . a l l t . d e . k a n . f ö r . a t t . s t o p p a . e t t . k r i g . i . l a n d e t . H a i t i 
+. D e t . s k r i v e r . t i d n i n g e n . M e t r o . p å . f r e d a g e n 
+. – . S a d d a m . H u s s e i n . l j u g e r 
+. I s a b e l l e . B l a n c . v a n n . g u l d m e d a l j e n 
+. Ö v e r . h u n d r a . p e r s o n e r . s k a d a d e s 
+. N ä s t a n . a l l a . l ä n d e r . i . E u r o p a . ä r . n u . m e d . i . N a t o 
+. D e . s ä g e r . a t t . h a n . f u s k a t . i . v a l e t . f ö r . a t t . b e h å l l a . m a k t e n 
+. F l e r a . s k o l b a r n . d ö d a d e s . n ä r . b o m b e r . s p r ä n g d e s . p å . o l i k a . p l a t s e r . i . s t a d e n . B a s r a . i . s ö d r a . I r a k 
+. D o m a r e n . s t r a f f a s . m e d . b ö t e r . p å . ö v e r . f y r t i o . t u s e n . k r o n o r 
+. M ä n n i s k o r . i . U z b e k i s t a n . ä r . m i s s n ö j d a . m e d . l a n d e t s . l e d a r e . K a r i m o v 
+. S j u . p e r s o n e r . i . S k å n e . o c h . K r o n o b e r g s . l ä n . d o g . u n d e r . d y g n e t . d å . d e t . s t o r m a d e . s o m . v ä r s t 
+. M e n . U S A . h a r . ä n n u . i n t e . h i t t a t . n å g r a . f ö r b j u d n a . v a p e n . i . I r a k 
+. 3 . – . 0 . t i l l . S v e r i g e 
+. J a - s i d a n . v a n n 
+. F o l k p a r t i e t . v i l l . s ä n k a . a - k a s s a n . m e n . i n t e . s j u k p e n g e n 
+. P å . o n s d a g . k a n . S v e r i g e . b l i . k l a r t . f ö r . E M - s l u t s p e l e t . i . f o t b o l l 
+. D e . s k a . t v i n g a s . b e t a l a . b ö t e r . t i l l . E U 
+. N u . h a r . v a p e n - i n s p e k t ö r e r n a . h i t t a t . e n . d e l . v a p e n 
+. S o c i a l d e m o k r a t e r n a . , . v ä n s t e r p a r t i e t . o c h . m i l j ö p a r t i e t . h a r . k o m m i t . ö v e r e n s . o m . h u r . s v e n s k a . s t a t e n s . p e n g a r . s k a . a n v ä n d a s . n ä s t a . å r 
+. S v e r i g e . t o g . 2 1 . m e d a l j e r . i . h a n d i k a p p - O S . , . p a r a l y m p i c s 
+. S v e r i g e . h a r . g j o r t . e t t . h e l t . f a n t a s t i s k t . b r a . V M 
+. D e . b l i r . a p a t i s k a . o c h . b r y r . s i g . i n t e . o m . n å g o t . l ä n g r e 
+. M i j a i l o . M i j a i l o v i c . ä r . f ö d d . i . S v e r i g e . m e n . h a n . f ö r ä l d r a r . ä r . f r å n . S e r b i e n 
+. D e t . f i n n s . r i s k . a t t . t a k . o c h . v ä g g a r . r a s a r 
+. Ä n d å . v a n n . S v e r i g e . s t o r t . , . m e d . 7 . – . 1 
+. V i . s k a . g ö r a . v a d . v i . k a n . f ö r . a t t . s t ä l l a . t i l l . d e t . f ö r . v i s s a . l a g . , . s a . e n . g l a d . S S K - t r ä n a r e . M a t s . H a l l i n . t i l l . C a n a l . + . e f t e r . m a t c h e n . m o t . L u l e å 
+. U n g e f ä r . v a r . s j ä t t e . e l e v . s ä g e r . a t t . d e . ä r . s t r e s s a d e 
+. N e d e r l ä n d e r n a . f å r . e n . s v å r . u p p g i f t . d e . n ä r m a s t e . s e x . m å n a d e r n a 
+. C o l u m b i a . b r ö t s . s ö n d e r . i . l u f t e n 
+. P å . t o r s d a g e n . s k u l l e . d e t . b l i . s t o r . s t r e j k 
+. P l a n n j a . ä r . å r e t s . s v e n s k a . m ä s t a r e . i . b a s k e t . f ö r . h e r r a r 
+. Ä n t l i g e n . v a n n . A n j a . P ä r s o n . e n . t ä v l i n g . i . S v e r i g e 
+. F ö r r a . å r e t . v a n n . S v e r i g e . ö v e r . T y s k l a n d . i . f i n a l e n . i . e u r o p a m ä s t e r s k a p e n 
+. D e n . p e r s o n . s o m . ä r . h ä k t a d . g ö m m e r . s i g . u t o m l a n d s 
+. F l e r a . h u n d r a . t u s e n . m ä n n i s k o r . h a r . b l i v i t . t v u n g n a . a t t . f l y . f r å n . s i n a . h e m 
+. M i j a i l o v i c . s i t t e r . j u s t . n u . i n l å s t . i . h ä k t e t 
+. A l l a . f y r a . r y m m a r n a . h a r . g r i p i t s . u t a n . b r å k 
+. D e t . e n d a . s ä t t e t . a t t . f å . t i l l b a k a . p e n g a r n a . ä r . a t t . s ä l j a . e l l e r . h y r a . u t . f l y g p l a n e n 
+. N u . b l i r . i . s t ä l l e t . B r e m e r . c h e f . ö v e r . G a r n e r 
+. H o n . v i l l . a t t . d o m s t o l e n . i . K a l i f o r n i e n . s k a . b e s t ä m m a . h u r . m å n g a . å r . h o n . s k a . s i t t a . i . f ä n g e l s e 
+. D e n . h e t t e . T j ä r d a l e n 
+. I . b å d a . l ä n d e r n a . v a r . d e t . f o l k o m r ö s t n i n g 
+. H a n . a n k l a g a s . b l a n d . a n n a t . f ö r . a t t . h a . d ö d a t . k u r d e r . m e d . f ö r b j u d n a . k e m i s k a . v a p e n 
+. B a r a . f å . i r a k i s k a . s o l d a t e r . g ö r . m o t s t å n d 
+. M e n . v a l e t . b l e v . l u g n t 
+. P å . o n s d a g . k v ä l l . b ö r j a r . j u d a r n a . f i r a . s i n . p å s k - h ö g t i d 
+. H a n . d o g . p å . e t t . s j u k h u s . i . M ö l n d a l . u t a n f ö r . G ö t e b o r g . i . o n s d a g s 
+. M e n . l y c k a d e s . i n t e . g ö r a . m å l 
+. A n n i k a . S ö r e n s t a m . v a r . t r ö t t . e f t e r . f l e r a . h å r d a . t ä v l i n g a r . o c h . s å g . m e s t . f r a m . m o t . s i n . s e m e s t e r 
+. M i n s t . 2 6 . m ä n n i s k o r . d o g . n ä r . e n . f a b r i k . i . B a n g l a d e s h . r a s a d e 
+. H a n . d o g . n ä r . h a n . f ö l l . n e d . f r å n . e n . e l s t o l p e 
+. N i t t o n . m ä n n i s k o r . d o g . a v . e n . b o m b . i . h u v u d s t a d e n . T a s j k e n t . o c h . i . d e n . m i n d r e . s t a d e n . B u k h a r a 
+. P å . f r e d a g s m o r g o n e n . v a r . f å n g a r n a . f o r t f a r a n d e . f r i a 
+. Ö r g r y t e . v i n n e r . m e d . 1 - 0 . o c h . ä r . k v a r . i . a l l s v e n s k a n 
+. D e . g å r . l i k a . b r a . a t t . i d e n t i f i e r a . ä n d å 
+. N u . b e r ä t t a r . k u b a s v e n s k e n . M e h d i . G h e z a l i . f ö r . r a d i o . o c h . t i d n i n g a r . o m . t i d e n . i . f ä n g e l s e t . i . G u a n t a n a m o 
+. B y g g n a d e r . , . v ä g a r . , . v a t t e n l e d n i n g a r . , . k r a f t v e r k . o c h . s k o l o r . ä r . f ö r s t ö r d a 
+. I s r a e l . b y g g e r . e n . m u r . r u n t . f l e r a . p a l e s t i n s k a . o m r å d e n 
+. D e n . t u r k i s k e . l e d a r e n . p å . C y p e r n . t y c k e r . a t t . f ö r s l a g e t . ä r . d å l i g t 
+. D e t . b l e v . s u c c é . f ö r . T r e . K r o n o r . i . d e n . f ö r s t a . m a t c h e n . i . S w e d e n . H o c k e y . G a m e s 
+. N ä r . h a n . g i c k . f ö r . a t t . h ä m t a . h j ä l p . d ö d a d e s . h a n . a v . e t t . n e d f a l l a n d e . t r ä d 
+. G r e k l a n d . v a n n . m a t c h e n . m e d . 1 - 0 . o c h . f å r . s p e l a . E M - f i n a l . m o t . P o r t u g a l . p å . s ö n d a g 
+. D e t . g å r . f a k t i s k t . a t t . å k a . m e l l a n . S t o c k h o l m . o c h . G ö t e b o r g . f ö r . l i t e . m e r . ä n . t v å h u n d r a . k r o n o r 
