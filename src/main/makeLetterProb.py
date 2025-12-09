@@ -1,6 +1,6 @@
 from collections import defaultdict
 import math
-from Key import Key  # Make sure Key.NUMBER_OF_CHARS is 26 if using a-z
+from Key import Key  
 
 # Step 0: Mapping letters to indices
 letters = ".abcdefghijklmnopqrstuvwxyzåäö"
@@ -13,7 +13,7 @@ total_counts = defaultdict(int)
 
 with open("words.txt", "r", encoding="utf-8") as f:
     for line in f:
-        line = line.strip().replace(".", "").replace(" ", ".").lower()  # clean line
+        line = line.strip().replace(".", "").replace(" ", ".").lower()
         if not line:
             continue
         for i in range(len(line) - 1):
