@@ -3,6 +3,7 @@ import argparse
 import codecs
 from collections import defaultdict
 import random
+import Bokstäver
 
 """
 This file is part of the computer assignments for the course DD1418 at KTH.
@@ -94,31 +95,43 @@ class Generator(object) :
             print("Couldn't find bigram probabilities file {}".format(filename))
             return False
 
-    def generate(self, w):
+    def generate(self, last_word, written):
         """
         Generates and prints n words, starting with the word w, and following the distribution
         of the language model.
         """ 
-        # YOUR CODE HERE
-
-          #Gör detta n antal gånger
 
        
         ordlista = []
         viktlista = []
+        m = self.index[last_word]
 
-        m = self.index[w]
-        for j in range(self.unique_words):
+        a = Bokstäver.ViterbiBigramDecoder.init_a("letterBigramProb.txt")
+
+        applicable_words = self.word
+        for i in range(self.unique_words):
+            if(self.word[i] != written + ".*"):
+                applicable_words.pop(i)
+
+        for j in applicable_words:
             if j in self.bigram_prob[m]:        #Kolla vilka ord som finns i bigram med det inlagda ordet
-                prob = math.exp(self.bigram_prob[m][j])     #den är i ln
+                if(written == None):
+                    prob = math.exp(self.bigram_prob[m][j]) 
+                else: 
+                    letters_list = []
+                    letters_list.append(written[len(written)])
+                    letters_list.append(j[len(written):len(j)])
+                    prob = math.exp(self.bigram_prob[m][j]) 
+                    for i in range(letters_list) -1:
+                        prob += math.exp(a[self.index[letters_list[i]]][self.index[letters_list[i+1]]])
                 if prob > 0:
                     ordlista.append(self.word[j])           #lägg in i listan över möjliga ord med sannolikheten i viktlistan
                     viktlista.append(prob)
 
-        if ordlista == []:                              #om det inte fanns några bigram-sannolikheter slumpar man mellan alla olika med samma sannolikhet
-            for k in range(self.unique_words):
-                ordlista.append(self.word[k])
-                viktlista.append(1/self.unique_words)
+                        
+                                 #om det inte fanns några bigram-sannolikheter slumpar man mellan alla olika med samma sannolikhet
+        if ordlista == []:
+                print("Tough Luck")
 
         if len(viktlista) > 2:
             top3_indices = [i for i, v in sorted(enumerate(viktlista), key=lambda x: x[1], reverse=True)[:3]]
@@ -152,7 +165,7 @@ def main():
 
     generator = Generator()
     generator.read_model(arguments.file.strip())
-    generator.generate(arguments.start.strip())
+    generator.generate(arguments.start.strip(), "ha")
 
 if __name__ == "__main__":
     main()

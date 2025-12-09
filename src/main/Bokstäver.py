@@ -14,14 +14,16 @@ class ViterbiBigramDecoder(object):
     This class implements Viterbi decoding using bigram probabilities in order
     to correct keystroke errors.
     """
-    def init_a(self, filename):
+    def init_a(filename):
         """
         Reads the bigram probabilities (the 'A' matrix) from a file.
         """
         with codecs.open(filename, 'r', 'utf-8') as f:
             for line in f:
                 i, j, d = [func(x) for func, x in zip([int, int, float], line.strip().split(' '))]
-                self.a[i][j] = d
+                a = np.zeros((Key.NUMBER_OF_CHARS, Key.NUMBER_OF_CHARS))
+                a[i][j] = d
+        return a
 
 
     # ------------------------------------------------------
