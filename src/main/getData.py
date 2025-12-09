@@ -45,13 +45,25 @@ for file_path in json_files:
             # Lägg till i listan
             tokens_list.append(token_obj)
 
-with open("data.txt", "w", encoding="utf-8") as f:
+
+with open("words.txt", "w", encoding="utf-8") as f:
+    prev_token = ""
+
     for token_obj in tokens_list:
-        for string in token_obj.values():
-            f.write(string + ", ")
-        f.write("\n")
+        if(token_obj["word"] != "." and prev_token != "."):
+            f.write(" ")
+        f.write(token_obj["word"])
+        if(token_obj["word"] == "."):
+                f.write("\n")
 
-
+with open("pos.txt", "w", encoding="utf-8") as f:
+    prev_token = ""
+    for token_obj in tokens_list:
+        if(token_obj["word"] != "." and prev_token != "."):
+            f.write(" ")
+        f.write(token_obj["pos"])
+        if(token_obj["word"] == "."):
+                f.write("\n")
 # Visa exempel på första 10 token
     
 for t in tokens_list[:10]:
