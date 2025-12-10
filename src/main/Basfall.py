@@ -100,55 +100,65 @@ class Generator(object) :
         Generates and prints n words, starting with the word w, and following the distribution
         of the language model.
         """ 
-
-       
         ordlista = []
         viktlista = []
         m = self.index[last_word]
-
-        a = Bokstäver.ViterbiBigramDecoder.init_a("letterBigramProb.txt")
-
-        applicable_words = {i: w for i, w in self.word.items() if w.startswith(written)}
-        print(applicable_words)
-        for j in applicable_words:
-            if j in self.bigram_prob[m]:        #Kolla vilka ord som finns i bigram med det inlagda ordet
-                if(written == None):
-                    prob = math.exp(self.bigram_prob[m][j]) 
-                else: 
-                    letters_list = []
-                    letters_list.append(written[len(written)-1])
-                    letters_list.append(j[len(written):len(j)])
-                    prob = math.exp(self.bigram_prob[m][j]) 
-                    for i in range(letters_list) -1:
-                        prob += math.exp(a[self.index[letters_list[i]]][self.index[letters_list[i+1]]])
-                if prob > 0:
-                    ordlista.append(self.word[j])           #lägg in i listan över möjliga ord med sannolikheten i viktlistan
-                    viktlista.append(prob)
-
-                        
-                                 #om det inte fanns några bigram-sannolikheter slumpar man mellan alla olika med samma sannolikhet
+        letters = ".abcdefghijklmnopqrstuvwxyzåäö"
+        letter_to_index = {ch: i for i, ch in enumerate(letters)}
+        decoder = Bokstäver.ViterbiBigramDecoder(filename="letterBigramProb.txt")
+        
+        ordlista, viktlista = self.basfall(ordlista, viktlista, m, written, decoder, letter_to_index)
+          
         if ordlista == []:
-                print("Tough Luck")
+            res = decoder.viterbi(written)
+            ordlista, viktlista = self.basfall(ordlista, viktlista, m, res, decoder, letter_to_index)
+            if(ordlista == []):
+                return written
 
         if len(viktlista) > 2:
             top3_indices = [i for i, v in sorted(enumerate(viktlista), key=lambda x: x[1], reverse=True)[:3]]
             nyaord = []
             for i in top3_indices:
                 nyaord.append(ordlista[i])
-            print(nyaord)
+            return nyaord
         elif len(viktlista) > 1:
             top2_indices = [i for i, v in sorted(enumerate(viktlista), key=lambda x: x[1], reverse=True)[:2]]
             nyaord = []
             for i in top2_indices:
                 nyaord.append(ordlista[i])
-            print(nyaord)
-        else:
+            return nyaord
+        elif len(viktlista) > 0:
             nyaord = ordlista[0]
-            print(nyaord)
+            return nyaord
 
 
         pass
 
+    def basfall(self, ordlista, viktlista, m, written, decoder, letter_to_index):
+        applicable_words = {i: w for i, w in self.word.items() if w.startswith(written)}
+        for idx, w in applicable_words.items():
+            if idx in self.bigram_prob[m]:  
+                    #Kolla vilka ord som finns i bigram med det inlagda ordet
+                if(written == None):
+                    prob = math.exp(self.bigram_prob[m][idx]) 
+                else: 
+                    letters_list = []
+                    letters_list.append(written[-1])      
+                    letters_list.extend(list(w[len(written):]))
+                    prob = math.exp(self.bigram_prob[m][idx]) 
+                    for i in range(len(letters_list) -1):
+                        prob += math.exp(decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i+1]]])
+                if prob > 0:
+                    ordlista.append(w)       #lägg in i listan över möjliga ord med sannolikheten i viktlistan
+                    viktlista.append(prob)
+        return(ordlista, viktlista)
+
+def main_temp():
+    generator = Generator()
+    generator.read_model("bigrams.txt")
+    ordlista = generator.generate("bomb", "s")
+    print(ordlista)
+    
 def main():
     """
     Parse command line arguments
@@ -162,7 +172,7 @@ def main():
 
     generator = Generator()
     generator.read_model(arguments.file.strip())
-    generator.generate(arguments.start.strip(), "ha")
+    generator.generate(arguments.start.strip(), "hzr")
 
 if __name__ == "__main__":
-    main()
+    main_temp()
