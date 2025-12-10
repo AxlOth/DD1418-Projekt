@@ -5,10 +5,6 @@ from collections import defaultdict
 import random
 import Bokstäver
 
-"""
-This file is part of the computer assignments for the course DD1418 at KTH.
-"""
-
 class Generator(object) :
     """
     This class generates words from a language model.
@@ -33,24 +29,7 @@ class Generator(object) :
         # The total number of words in the training corpus.
         self.total_words = 0
 
-        # The average log-probability (= the estimation of the entropy) of the test corpus.
-        # Important that it is named self.logProb for the --check flag to work
-        self.logProb = 0
 
-        # The identifier of the previous word processed in the test corpus. Is -1 if the last word was unknown.
-        self.last_index = -1
-
-        # The fraction of the probability mass given to unknown words.
-        self.lambda3 = 0.000001
-
-        # The fraction of the probability mass given to unigram probabilities.
-        self.lambda2 = 0.01 - self.lambda3
-
-        # The fraction of the probability mass given to bigram probabilities.
-        self.lambda1 = 0.99
-
-        # The number of words processed in the test corpus.
-        self.test_words_processed = 0
 
 
     def read_model(self,filename):
@@ -88,6 +67,7 @@ class Generator(object) :
                 
                 for i in range(self.unique_words):
                     self.bigram_prob[i][13] = -100000000000
+                self.unigram_count[13] = 0
 
 
                 return True
@@ -96,22 +76,28 @@ class Generator(object) :
             return False
 
     def generate(self, last_word, written):
-        """
-        Generates and prints n words, starting with the word w, and following the distribution
-        of the language model.
-        """ 
+       
+        # Init
         ordlista = []
         viktlista = []
-        m = self.index[last_word]
+        if(last_word != None and last_word != ""): m = self.index[last_word]
         letters = ".abcdefghijklmnopqrstuvwxyzåäö"
         letter_to_index = {ch: i for i, ch in enumerate(letters)}
-        decoder = Bokstäver.ViterbiBigramDecoder(filename="letterBigramProb.txt")
+        decoder = Bokstäver.ViterbiBigramDecoder(filename="letterBigram.txt")
+
+       
         
-        ordlista, viktlista = self.basfall(ordlista, viktlista, m, written, decoder, letter_to_index)
-          
+        if(last_word == None or last_word == ""): ordlista, viktlista = self.no_lw(ordlista, viktlista, written, decoder, letter_to_index)
+        else: ordlista, viktlista = self.lw_exists(ordlista, viktlista, m, written, decoder, letter_to_index)
+
+        
         if ordlista == []:
+            for char in written:
+                if(char not in letters): return written
             res = decoder.viterbi(written)
-            ordlista, viktlista = self.basfall(ordlista, viktlista, m, res, decoder, letter_to_index)
+            if(last_word != None and last_word != ""):
+                ordlista, viktlista = self.lw_exists(ordlista, viktlista, m, res, decoder, letter_to_index)
+            else: ordlista, viktlista = self.no_lw(ordlista, viktlista, res, decoder, letter_to_index)
             if(ordlista == []):
                 return written
 
@@ -134,29 +120,51 @@ class Generator(object) :
 
         pass
 
-    def basfall(self, ordlista, viktlista, m, written, decoder, letter_to_index):
-        applicable_words = {i: w for i, w in self.word.items() if w.startswith(written)}
+    def lw_exists(self, ordlista, viktlista, m, written, decoder, letter_to_index):
+        if(written == None or written == ""): applicable_words = self.word
+        else: applicable_words = {i: w for i, w in self.word.items() if w.startswith(written)}
+
         for idx, w in applicable_words.items():
             if idx in self.bigram_prob[m]:  
                     #Kolla vilka ord som finns i bigram med det inlagda ordet
-                if(written == None):
-                    prob = math.exp(self.bigram_prob[m][idx]) 
+                if(written == None or written == ""):
+                    prob = self.bigram_prob[m][idx]
                 else: 
                     letters_list = []
                     letters_list.append(written[-1])      
                     letters_list.extend(list(w[len(written):]))
-                    prob = math.exp(self.bigram_prob[m][idx]) 
+                    prob = self.bigram_prob[m][idx]
                     for i in range(len(letters_list) -1):
-                        prob += math.exp(decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i+1]]])
-                if prob > 0:
-                    ordlista.append(w)       #lägg in i listan över möjliga ord med sannolikheten i viktlistan
-                    viktlista.append(prob)
-        return(ordlista, viktlista)
+                        prob += decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i + 1]]]
 
+                ordlista.append(w)
+                viktlista.append(prob)
+        return(ordlista, viktlista)
+    
+    def no_lw(self, ordlista, viktlista, written, decoder, letter_to_index):
+        if(written == None or written == ""): applicable_words = self.word
+        else: applicable_words = {i: w for i, w in self.word.items() if w.startswith(written)}
+
+        for idx, w in applicable_words.items():
+            if(written == None or written == ""):
+                   prob = self.unigram_count[idx]
+            else:
+                prob = math.log(self.unigram_count[idx] + 1)
+                letters_list = [written[-1]] + list(w[len(written):])
+                for i in range(len(letters_list) -1):
+                    prob += decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i + 1]]]
+
+            ordlista.append(w)
+            viktlista.append(prob) 
+        return(ordlista, viktlista)
+    
+    def is_known_word(self, word: str) -> bool:
+        return word in self.index     
+     
 def main_temp():
     generator = Generator()
     generator.read_model("bigrams.txt")
-    ordlista = generator.generate("bomb", "s")
+    ordlista = generator.generate("han", "h")
     print(ordlista)
     
 def main():
