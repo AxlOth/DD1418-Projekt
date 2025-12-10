@@ -80,14 +80,14 @@ class Generator(object) :
         # Init
         ordlista = []
         viktlista = []
-        if(last_word != None and last_word != ""): m = self.index[last_word]
+        if(last_word != None and last_word != ""):  m = self.index.get(last_word, None)
         letters = ".abcdefghijklmnopqrstuvwxyzåäö"
         letter_to_index = {ch: i for i, ch in enumerate(letters)}
         decoder = Bokstäver.ViterbiBigramDecoder(filename="letterBigram.txt")
 
        
         
-        if(last_word == None or last_word == ""): ordlista, viktlista = self.no_lw(ordlista, viktlista, written, decoder, letter_to_index)
+        if(last_word == None or last_word == "" or m == None): ordlista, viktlista = self.no_lw(ordlista, viktlista, written, decoder, letter_to_index)
         else: ordlista, viktlista = self.lw_exists(ordlista, viktlista, m, written, decoder, letter_to_index)
 
         
@@ -95,6 +95,8 @@ class Generator(object) :
             for char in written:
                 if(char not in letters): return written
             res = decoder.viterbi(written)
+            if isinstance(res, list):
+                res = "".join(res)
             if(last_word != None and last_word != ""):
                 ordlista, viktlista = self.lw_exists(ordlista, viktlista, m, res, decoder, letter_to_index)
             else: ordlista, viktlista = self.no_lw(ordlista, viktlista, res, decoder, letter_to_index)
@@ -164,7 +166,7 @@ class Generator(object) :
 def main_temp():
     generator = Generator()
     generator.read_model("bigrams.txt")
-    ordlista = generator.generate("han", "h")
+    ordlista = generator.generate("", "a")
     print(ordlista)
     
 def main():
