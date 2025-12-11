@@ -12,8 +12,9 @@ def getData(data_folder_name):
     ROOT_DIR = os.path.dirname(os.path.dirname(SCRIPT_DIR))
     DATA_FOLDER = os.path.join(ROOT_DIR, data_folder_name)
 
-    letters = ".abcdefghijklmnopqrstuvwxyzåäö"
+    letters = ".abcdefghijklmnopqrstuvwxyzåäöABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"
     allowed = set(letters)
+    allowed_single_letter_words = {"i","å", "ö",}
 
     data_folder = DATA_FOLDER
 
@@ -43,6 +44,7 @@ def getData(data_folder_name):
                 processed_tokens += 1
                 raw_word = token.get("word", "")
                 clean_word = "".join(ch for ch in raw_word if ch in allowed)
+                if len(clean_word) == 1 and clean_word.lower() not in allowed_single_letter_words: continue
                 pos = token.get("pos", "")
                 lemma = token.get("lemma", "").strip("|")  # ta bort eventuella "|"-tecken runt lemma
                 
