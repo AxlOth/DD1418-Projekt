@@ -25,8 +25,16 @@ class MainApp():
         self.text_input.bind("<KeyRelease>", self.on_key_release)
 
         # Suggestions label
-        self.suggestions_label = tk.Label(self.root, text="", fg="blue")
-        self.suggestions_label.pack()
+        self.suggestion_frame = tk.Frame(self.root)
+        self.suggestion_frame.pack()
+
+        self.suggestion_buttons = []
+
+        for i in range(3):
+            btn = tk.Button(self.suggestion_frame, text="", width=15,
+                            command=lambda idx=i: self.insert_suggestion(idx))
+            btn.grid(row=0, column=i, padx=5)
+            self.suggestion_buttons.append(btn)
 
         # Start the UI
         self.root.mainloop()
@@ -65,30 +73,50 @@ class MainApp():
             last_word = None
             written = None
         else: words = current_entry.split(" ")
-        print(f"words: {words}")
 
         if(len(words) > 1):
             written = words[-1]
             last_word = words[-2]
-            print(f"len words > 1:\nLw:{last_word}\nWritten:{written}")
         else:
              
              written = words[-1]
              last_word = None
-             print(f"len words < 1:\nLw:{last_word}\nWritten:{written}")
 
         if current_entry and current_entry[-1] == " ":  
             last_word = written
             written = None
-            print(f"Is known word\nLW: {last_word}\nWritten: {written}")
+
         
-        print(f"LW: {last_word}\nWritten: {written}")
         return  self.generator.generate(last_word, written)
+    
+    def insert_suggestion(self, index):
+        """Insert selected suggestion into the input field."""
+        text = self.text_input.get().rstrip()
+
+        if text and not text.endswith(" "):
+            # Replace the last word with the suggestion
+            parts = text.split(" ")
+            parts[-1] = self.current_suggestions[index]
+            new_text = " ".join(parts)
+        else:
+            # Add suggestion as a new word
+            new_text = text + " " + self.current_suggestions[index]
+
+        self.text_input.delete(0, tk.END)
+        self.text_input.insert(0, new_text + " ")
 
     def on_key_release(self, event):
         suggestions = self.suggest_words()
         if isinstance(suggestions, str): suggestions = [suggestions]
-        self.suggestions_label.config(text=", ".join(suggestions))
+
+        self.current_suggestions = suggestions[:3]
+
+        for i in range(3):
+            if i < len(self.current_suggestions):
+                self.suggestion_buttons[i].config(text=self.current_suggestions[i], state="normal")
+            else:
+                self.suggestion_buttons[i].config(text="", state="disabled")
+
 
 if __name__ == "__main__":
         app = MainApp()
