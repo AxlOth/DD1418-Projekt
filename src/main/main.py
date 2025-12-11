@@ -59,7 +59,7 @@ class MainApp():
         
 
     def suggest_words(self):
-        current_entry = self.text_input.get().strip()
+        current_entry = self.text_input.get()
         print(current_entry)
         if not current_entry:
             last_word = None
@@ -77,8 +77,7 @@ class MainApp():
              last_word = None
              print(f"len words < 1:\nLw:{last_word}\nWritten:{written}")
 
-        if self.generator.is_known_word(written):  
-            self.generator.test(written)
+        if current_entry and current_entry[-1] == " ":  
             last_word = written
             written = None
             print(f"Is known word\nLW: {last_word}\nWritten: {written}")
@@ -88,6 +87,7 @@ class MainApp():
 
     def on_key_release(self, event):
         suggestions = self.suggest_words()
+        if isinstance(suggestions, str): suggestions = [suggestions]
         self.suggestions_label.config(text=", ".join(suggestions))
 
 if __name__ == "__main__":

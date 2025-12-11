@@ -3,7 +3,7 @@ import argparse
 import codecs
 from collections import defaultdict
 import random
-import Bokstäver
+import ViterbiTrigramDecoder
 
 class Generator(object) :
     """
@@ -83,7 +83,7 @@ class Generator(object) :
         if(last_word != None and last_word != ""):  m = self.index.get(last_word, None)
         letters = ".abcdefghijklmnopqrstuvwxyzåäö"
         letter_to_index = {ch: i for i, ch in enumerate(letters)}
-        decoder = Bokstäver.ViterbiBigramDecoder(filename="letterBigram.txt")
+        decoder = ViterbiTrigramDecoder.ViterbiTrigramDecoder(filename="letterTrigram.txt")
 
        
         
@@ -136,8 +136,8 @@ class Generator(object) :
                     letters_list.append(written[-1])      
                     letters_list.extend(list(w[len(written):]))
                     prob = self.bigram_prob[m][idx]
-                    for i in range(len(letters_list) -1):
-                        prob += decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i + 1]]]
+                    for i in range(len(letters_list) -2):
+                        prob += decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i + 1]]][letter_to_index[letters_list[i + 2]]]
 
                 ordlista.append(w)
                 viktlista.append(prob)
@@ -153,8 +153,8 @@ class Generator(object) :
             else:
                 prob = math.log(self.unigram_count[idx] + 1)
                 letters_list = [written[-1]] + list(w[len(written):])
-                for i in range(len(letters_list) -1):
-                    prob += decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i + 1]]]
+                for i in range(len(letters_list) -2):
+                    prob += decoder.a[letter_to_index[letters_list[i]]][letter_to_index[letters_list[i + 1]]][letter_to_index[letters_list[i + 2]]]
 
             ordlista.append(w)
             viktlista.append(prob) 
@@ -167,9 +167,10 @@ class Generator(object) :
 def main_temp():
     generator = Generator()
     generator.read_model("bigrams.txt")
-    ordlista = generator.generate("", "a")
+    ordlista = generator.generate("fdsjanhb", "ska")
     print(ordlista)
     
+
 def main():
     """
     Parse command line arguments
