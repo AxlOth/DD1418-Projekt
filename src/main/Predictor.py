@@ -161,7 +161,30 @@ class Generator(object) :
         return(ordlista, viktlista)
     
     def is_known_word(self, word: str) -> bool:
-        return word in self.index     
+        return word in self.index  
+    
+    def test(self, word):
+        items = list(self.index.items())  # list of (word, idx)
+
+        print("Checking for very short words:")
+        check = False
+
+        for w, idx in items:
+            if len(w) < 2:
+                print(w)
+                check = True
+
+        if check:
+            print("what")
+        else:
+            print("ok")
+
+        if word in self.index:
+            keys = list(self.index.keys())
+            print(keys.index(word))
+        else:
+            print("heh")
+               
      
 def main_temp():
     generator = Generator()
@@ -184,5 +207,10 @@ def main():
     generator.read_model(arguments.file.strip())
     generator.generate(arguments.start.strip(), "hzr")
 
+
+
 if __name__ == "__main__":
-    main_temp()
+    generator = Generator()
+    generator.read_model("bigrams.txt")
+    word = "a"
+    generator.test(word)

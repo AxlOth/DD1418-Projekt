@@ -7,8 +7,9 @@ import Predictor
 class MainApp():
 
     def __init__(self):
-        #Run startup
-        self.startup()
+
+        #Welcome + file creation
+        if(self.welcome() == True):self.file_creation()
 
         # Setup generator
         self.generator = Predictor.Generator()
@@ -30,8 +31,11 @@ class MainApp():
         # Start the UI
         self.root.mainloop()
 
+    def welcome(self):
+        user_input = input("Do you wish to run file creation: ")
+        return user_input.strip().lower() == "yes"
 
-    def startup(self):
+    def file_creation(self):
         
         # 1 Extract and clean words from JSON files
         data_folder_name = input("Enter name of data folder:")
@@ -56,21 +60,30 @@ class MainApp():
 
     def suggest_words(self):
         current_entry = self.text_input.get().strip()
+        print(current_entry)
         if not current_entry:
             last_word = None
             written = None
         else: words = current_entry.split(" ")
+        print(f"words: {words}")
 
         if(len(words) > 1):
             written = words[-1]
             last_word = words[-2]
+            print(f"len words > 1:\nLw:{last_word}\nWritten:{written}")
         else:
+             
              written = words[-1]
              last_word = None
+             print(f"len words < 1:\nLw:{last_word}\nWritten:{written}")
 
-        if self.generator.is_known_word(written):
-             last_word = written
-             written = None
+        if self.generator.is_known_word(written):  
+            self.generator.test(written)
+            last_word = written
+            written = None
+            print(f"Is known word\nLW: {last_word}\nWritten: {written}")
+        
+        print(f"LW: {last_word}\nWritten: {written}")
         return  self.generator.generate(last_word, written)
 
     def on_key_release(self, event):
