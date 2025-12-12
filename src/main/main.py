@@ -1,7 +1,6 @@
 import tkinter as tk
 from getData import getData, WORDS_FILE, POS_FILE
 from makeBigram import BigramTrainer, BIGRAM_PROB_FILE
-from makeLetterProb import makeLettersProb, LETTER_BIGRAM_PROB_FILE
 import Predictor
 
 class MainApp():
