@@ -6,7 +6,7 @@ import Predictor
 class MainApp():
 
     def __init__(self):
-
+        
         #Welcome + file creation
         if(self.welcome() == True):self.file_creation()
 
@@ -14,7 +14,30 @@ class MainApp():
         self.generator = Predictor.Generator()
         self.generator.read_model(BIGRAM_PROB_FILE)
 
+        print(f"Evaluation score rapport: {self.evaluate('rapport_text.txt')}") 
+        #Liten text
+        # Med Viterbi: 0.07442748091603053, Utan Viterbi: 0.07442748091603053, 
+        # Stor text
+        # Med Viterbi:  0.06214915797914996, Utan Viterbi: 0.06214915797914996
+        print(f"Evaluation score rapport felstavad: {self.evaluate('rapport_text_felstavad.txt')}") 
+        #Liten text
+        # Med Viterbi: 0.05938697318007663, Utan Viterbi: 0.05938697318007663, 
+        # Stor text
+        # Med Viterbi: 0.059178743961352656, Utan Viterbi: 0.059178743961352656
+        print(f"Evaluation score talspråk: {self.evaluate('talspråk_text.txt')}") 
+        #Liten text
+        # Med Viterbi: 0.08359133126934984, Utan Viterbi: 0.08359133126934984 
+        # Stor text
+        # Med Viterbi: 0.09295570079883805, Utan Viterbi: 0.09295570079883805
+        print(f"Evaluation score talspråk felstavad: {self.evaluate('talspråk_text_felstavad.txt')}")
+        #Liten Text
+        # Med Viterbi: 0.084375, Utan Viterbi:  0.084375, 
+        # Stor text
+        # 0.06214915797914996, 0.09336250911743253
+
+
         #Setup Tk
+
         self.root = tk.Tk()
         self.root.title("Word Predictor")
 
@@ -118,6 +141,52 @@ class MainApp():
             else:
                 self.suggestion_buttons[i].config(text="", state="disabled")
 
+    def evaluate(self, text_file_name):
+
+        total_chars = 0
+        saved_clicks = 0
+
+        with open(text_file_name, "r", encoding="utf-8") as f:
+            text = f.read()
+            words = [w.strip() for w in text.split() if w.strip()]
+
+        last_word = None
+        cache = {}
+        gen = self.generator.generate  # local reference for speed
+
+        for idx, word in enumerate(words):
+            #if idx % 10 == 0 and idx > 0:
+            #    print(f"Processed {idx} words...")
+
+            total_chars += len(word)
+            written = ""
+
+            for i, ch in enumerate(word):
+                written += ch
+
+                key = (last_word, written)
+                if key in cache:
+                    suggestions = cache[key]
+                else:
+                    suggestions = gen(last_word, written)
+                    if isinstance(suggestions, str):
+                        suggestions = [suggestions]
+                    cache[key] = suggestions
+
+                if word in suggestions:
+                    remaining = len(word) - (i + 1)
+                    if remaining > 0:
+                        saved_clicks += max(0, remaining - 1)
+                    break
+
+            last_word = word
+
+        if total_chars == 0:
+            return 0.0
+
+        return saved_clicks / total_chars
+
 
 if __name__ == "__main__":
         app = MainApp()
+        
