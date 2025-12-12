@@ -43,8 +43,16 @@ def getData(data_folder_name):
             for token in hit.get("tokens", []):
                 processed_tokens += 1
                 raw_word = token.get("word", "")
-                clean_word = "".join(ch for ch in raw_word if ch in allowed)
-                if len(clean_word) == 1 and clean_word.lower() not in allowed_single_letter_words: continue
+
+                # Specialfall: behåll punkt exakt som ord
+                if raw_word.strip() == ".":
+                    clean_word = "."
+                else:
+                    clean_word = "".join(ch for ch in raw_word if ch in allowed)
+
+                # Filtrera bort icke-godkända enbokstavsord (gäller inte punkt)
+                if len(clean_word) == 1 and clean_word.lower() not in allowed_single_letter_words and clean_word != ".":
+                    continue
                 pos = token.get("pos", "")
                 lemma = token.get("lemma", "").strip("|")  # ta bort eventuella "|"-tecken runt lemma
                 

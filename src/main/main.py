@@ -82,7 +82,7 @@ class MainApp():
              written = words[-1]
              last_word = None
 
-        if current_entry and current_entry[-1] == " ":  
+        if current_entry == " " and current_entry[-1] == " ":  
             last_word = written
             written = None
 
@@ -91,19 +91,25 @@ class MainApp():
     
     def insert_suggestion(self, index):
         """Insert selected suggestion into the input field."""
-        text = self.text_input.get().rstrip()
+        raw_text = self.text_input.get()
+        text = raw_text.rstrip()
 
-        if text and not text.endswith(" "):
-            # Replace the last word with the suggestion
-            parts = text.split(" ")
-            parts[-1] = self.current_suggestions[index]
-            new_text = " ".join(parts)
+        suggestion = self.current_suggestions[index]
+
+        if raw_text.endswith(" "):
+       
+            new_text = raw_text + suggestion + " "
         else:
-            # Add suggestion as a new word
-            new_text = text + " " + self.current_suggestions[index]
+            parts = text.split(" ")
+            parts[-1] = suggestion
+            new_text = " ".join(parts) + " "
 
+        # Uppdatera fältet
         self.text_input.delete(0, tk.END)
-        self.text_input.insert(0, new_text + " ")
+        self.text_input.insert(0, new_text)
+
+        # Uppdatera förslag direkt
+        self.on_key_release(None)
 
     def on_key_release(self, event):
         suggestions = self.suggest_words()
