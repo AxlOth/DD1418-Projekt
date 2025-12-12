@@ -58,11 +58,6 @@ class MainApp():
         print(f"Creating bigrams")
         BigramTrainer.makeBigram(WORDS_FILE)
         print(f"Bigrams stored to {BIGRAM_PROB_FILE}")
-
-        #3 Create Letter-bigram File
-        print(f"Creating letter-bigrams")
-        makeLettersProb(WORDS_FILE)
-        print(f"Letter-bigrams stored to {LETTER_BIGRAM_PROB_FILE}")
         
         
 
