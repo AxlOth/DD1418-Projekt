@@ -68,7 +68,6 @@ class MainApp():
 
     def suggest_words(self):
         current_entry = self.text_input.get()
-        print(current_entry)
         if not current_entry:
             last_word = None
             written = None
@@ -97,8 +96,10 @@ class MainApp():
         suggestion = self.current_suggestions[index]
 
         if raw_text.endswith(" "):
-       
-            new_text = raw_text + suggestion + " "
+            if(suggestion == "."):
+                new_text = text + suggestion
+            else:
+                new_text = raw_text + suggestion + " "
         else:
             parts = text.split(" ")
             parts[-1] = suggestion
