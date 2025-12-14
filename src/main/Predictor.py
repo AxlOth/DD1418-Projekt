@@ -92,17 +92,17 @@ class Generator(object) :
 
         
         if ordlista == []:
-            #for char in written:
-            #    if(char not in letters): return written
-            #res = decoder.viterbi(written)
-            #if isinstance(res, list):
-            #    res = "".join(res)
-            #if(last_word != None and last_word != ""):
-            #    ordlista, viktlista = self.lw_exists(ordlista, viktlista, m, res, decoder, letter_to_index)
-            #else: ordlista, viktlista = self.no_lw(ordlista, viktlista, res, decoder, letter_to_index)
-            #if(ordlista == []):
-            #    return written
-            return written
+            for char in written:
+                if(char not in letters): return written
+            res = decoder.viterbi(written)
+            if isinstance(res, list):
+                res = "".join(res)
+            if(last_word != None and last_word != ""):
+                ordlista, viktlista = self.lw_exists(ordlista, viktlista, m, res, decoder, letter_to_index)
+            else: ordlista, viktlista = self.no_lw(ordlista, viktlista, res, decoder, letter_to_index)
+            if(ordlista == []):
+                return written
+            #return written
 
         if len(viktlista) > 2:
             top3_indices = [i for i, v in sorted(enumerate(viktlista), key=lambda x: x[1], reverse=True)[:3]]

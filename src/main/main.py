@@ -24,12 +24,12 @@ class MainApp():
         # Med Viterbi: 0.05938697318007663, Utan Viterbi: 0.05938697318007663, 
         # Stor text
         # Med Viterbi: 0.059178743961352656, Utan Viterbi: 0.059178743961352656
-        #print(f"Evaluation score talspråk: {self.evaluate('talspråk_text.txt')}") 
+        print(f"Evaluation score talspråk: {self.evaluate('nyheter_text.txt', 'nyheter_text.txt')}") 
         #Liten text
         # Med Viterbi: 0.08359133126934984, Utan Viterbi: 0.08359133126934984 
         # Stor text
         # Med Viterbi: 0.09295570079883805, Utan Viterbi: 0.09295570079883805
-        print(f"Evaluation score talspråk felstavad: {self.evaluate('talspråk_text_felstavad.txt')}")
+        #print(f"Evaluation score talspråk felstavad: {self.evaluate('talspråk_text_felstavad.txt')}")
         #Liten Text
         #Med Viterbi: 0.084375, Utan Viterbi:  0.084375, 
         # Stor text
@@ -142,7 +142,7 @@ class MainApp():
             else:
                 self.suggestion_buttons[i].config(text="", state="disabled")
 
-    def evaluate(self, text_file_name):
+    def evaluate(self, text_file_name, correctfile):
 
         total_chars = 0
         saved_clicks = 0
@@ -151,6 +151,11 @@ class MainApp():
             text = f.read().lower()
             words = [w.strip() for w in text.split() if w.strip()]
 
+        with open(correctfile, "r", encoding="utf-8") as m:
+            textC = m.read().lower()
+            wordsC = [w.strip() for w in textC.split() if w.strip()]
+
+
         last_word = None
         cache = {}
         gen = self.generator.generate  # local reference for speed
@@ -158,7 +163,7 @@ class MainApp():
         for idx, word in enumerate(words):
             #if idx % 10 == 0 and idx > 0:
             #    print(f"Processed {idx} words...")
-
+            correct_word = wordsC[idx]
             total_chars += len(word)
             written = ""
 
@@ -168,19 +173,19 @@ class MainApp():
                 key = (last_word, written)
                 if key in cache:
                     suggestions = cache[key]
+                    print(suggestions)
                 else:
                     suggestions = gen(last_word, written)
                     if isinstance(suggestions, str):
                         suggestions = [suggestions]
                     cache[key] = suggestions
 
-                if word in suggestions:
+                if correct_word in suggestions:
                     remaining = len(word) - (i + 1)
                     if remaining > 0:
                         saved_clicks += max(0, remaining - 1)
                     break
-
-            last_word = word
+            last_word = correct_word
 
         if total_chars == 0:
             return 0.0
